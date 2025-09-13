@@ -1,0 +1,11 @@
+{
+  "baseline": "HQCC seul",
+  "HQCC+Zoran": {
+    "correction_erreurs": "+42%",
+    "memoire_fractale_ZDM": "+51%",
+    "polyresonator": "+63%",
+    "synergie_IA_QC": "+74%",
+    "conformite_ethicchain": "+39%",
+    "global": "+58%"
+  }
+}
