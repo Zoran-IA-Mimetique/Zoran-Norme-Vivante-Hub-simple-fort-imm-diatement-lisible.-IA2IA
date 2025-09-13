@@ -1,9 +1,10 @@
 # 🏷️ Badges — Zoran aSiM
-
+![Audit](https://img.shields.io/badge/Audit-independent-blue.svg)
 ### 📜 Licences & marque
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Docs: CC-BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-blue.svg)](LICENSE)  
 ![Trademark](https://img.shields.io/badge/Trademark-Zoran%20aSiM-red.svg)  
+![Audit](https://img.shields.io/badge/Audit-independent-blue.svg)
 
 ### 📚 DOIs Zenodo
 [![DOI 16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525)  
@@ -72,6 +73,8 @@
 
 
 11. Badges
+    
+12. [Audit & conformité](#-audit--conformité)
 
 
 
@@ -231,7 +234,13 @@ Medium – Publications Zoran
 
 Écoline
 
+## 📊 Audit & conformité
 
+- [Note d’audit critique](AUDIT_NOTE.md)  
+- [Fiche conformité AI Act](AI_ACT_CONFORMITY.md)  
+- [État de la roadmap](ROADMAP_STATUS.md)  
+- [Mapping théorie ↔ code](MAPPING.md)  
+- [Plan de tests CI/CD](TEST_PLAN.md)
 
 ---
 
