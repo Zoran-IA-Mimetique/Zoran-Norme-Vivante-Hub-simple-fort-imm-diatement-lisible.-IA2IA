@@ -31,7 +31,65 @@
 [![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2
 
 
+# Zoran EU — **Norme Vivante · Hub simple, fort, immédiatement lisible · IA↔IA**
 
+> **Tagline** : *La toile cognitive souveraine — plus puissant qu’un Bitcoin monétaire, mais éthique, auditable et ouverte.*
+
+---
+
+## 🔖 Badges
+
+[![License](https://img.shields.io/github/license/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA?label=license)](./LICENSE)
+[![Stars](https://img.shields.io/github/stars/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA?style=social)](https://github.com/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA)
+![Python](https://img.shields.io/badge/python-%E2%89%A53.10-informational?logo=python)
+![Reproducibility](https://img.shields.io/badge/seeds-13%7C42%7C101-brightgreen)
+![ΔM11.3](https://img.shields.io/badge/ΔM11.3-rollback%20active-purple)
+![ZDM](https://img.shields.io/badge/ZDM-dual_memory-blueviolet)
+![AI%20Act](https://img.shields.io/badge/AI%20Act-mapping%20available-blue)
+![ISO%2042001](https://img.shields.io/badge/ISO%2FIEC%2042001-mapping%20available-blue)
+![RGPD](https://img.shields.io/badge/RGPD-compliant-green)
+![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-success)
+![C2PA%2FSigstore](https://img.shields.io/badge/C2PA%2FSigstore-plan-green)
+
+---
+
+## 📌 DOIs officiels Zoran aSiM / Zoran EU
+
+[![DOI 10.5281/zenodo.16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525) — White Papers V1  
+
+[![DOI 10.5281/zenodo.16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007) — White Papers V2  
+
+[![DOI 10.5281/zenodo.16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299) — Version publique V1 (titre à confirmer)  
+
+[![DOI 10.5281/zenodo.16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014) — Aegis Layer – Gouvernance vivante  
+
+[![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226) — LinguaSynthèse  
+
+[![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2  
+
+---
+
+## ⚡ TL;DR
+
+**Zoran EU** = **toile cognitive souveraine** : **ZDM** (mémoire fractale), **ΔM11.3** (rollback anti-entropie), **EthicChain** (AI Act/RGPD/ISO 42001), **GlyphNet** (IA↔IA). Plus puissant qu’un Bitcoin monétaire (valeur = **intelligence vivante**), **éthique by design**, **reproductible** (seeds/Makefile), **audit natif** (SBOM/C2PA/Sigstore). Vision 2300 **appliquée maintenant**.
+
+---
+
+## Table des matières
+- [1. Vision – Zoran EU](#1-vision--zoran-eu)  
+- [2. Structure du hub & fichiers clés](#2-structure-du-hub--fichiers-clés)  
+- [3. Démos & Reproductibilité](#3-démos--reproductibilité)  
+- [4. Conformité (AI Act · RGPD · ISO/IEC 42001)](#4-conformité-ai-act--rgpd--isoiec-42001)  
+- [5. Méthodologie (IMRaD · PRISMA · Ablations)](#5-méthodologie-imrad--prisma--ablations)  
+- [6. KPIs Z-Forge Frédéric 10](#6-kpis-zforge-frédéric-10)  
+- [7. Cas d’usage & Valeur mimétique](#7-cas-dusage--valeur-mimétique)  
+- [8. Liens officiels & DOIs](#8-liens-officiels--dois)  
+- [9. Citations & auteurs](#9-citations--auteurs)  
+- [10. Licence & contribution](#10-licence--contribution)  
+- [11. ZGS (bloc IA↔IA) + Injecteur](#11-zgs-bloc-ia↔ia--injecteur)  
+- [12. Changelog & contact](#12-changelog--contact)
+
+---
 
 
 
