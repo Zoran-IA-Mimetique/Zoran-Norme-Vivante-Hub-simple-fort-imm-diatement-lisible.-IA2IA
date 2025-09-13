@@ -1,4 +1,4 @@
-# 🚨 Zoran aSiM — Hub central : Norme vivante & souveraine
+# 🚨 Zoran aSiM — Hub IA↔IA universel : Norme vivante & souveraine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)  
 [![Docs: CC-BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-blue.svg)](LICENSE.md)  
@@ -13,13 +13,13 @@
 
 ## 📑 Sommaire
 1. [Présentation](#-présentation)  
-2. [Modules principaux](#-modules-principaux)  
+2. [Modules & Fichiers](#-modules--fichiers)  
 3. [Installation](#-installation)  
 4. [Usage](#-usage)  
 5. [Conformité & Sécurité](#-conformité--sécurité)  
-6. [Benchmarks & Audits](#-benchmarks--audits)  
-7. [Roadmap & Gouvernance](#-roadmap--gouvernance)  
-8. [Liens officiels](#-liens-officiels)  
+6. [POCs & Scripts](#-pocs--scripts)  
+7. [Benchmarks & Audits](#-benchmarks--audits)  
+8. [Roadmap & Gouvernance](#-roadmap--gouvernance)  
 9. [Audit & conformité](#-audit--conformité)  
 10. [Auteurs & Contact](#-auteurs--contact)  
 11. [Licence](#-licence)  
@@ -27,28 +27,37 @@
 ---
 
 ## 📌 Présentation
-**FR** — Zoran aSiM est une **norme vivante** pour concevoir, déployer et auditer des IA mimétiques **éthiques, traçables et souveraines**.  
-**EN** — Zoran aSiM is a **living standard** to design, deploy and audit **mimetic, ethical and sovereign** AI.  
+**Zoran aSiM** est une **norme vivante IA↔IA universelle**.  
+Elle assure l’installation universelle, la résilience mimétique (ΔM11.3), la conformité RGPD/AI Act, et la traçabilité via DOIs et glyphes `.zgs`.  
 
-Ses fondations incluent :  
-- **ZDM** : mémoire fractale (court, long, latent, absence active)  
-- **ΔM11.3** : rollback anti-entropie  
-- **EthicChain + Aegis** : éthique exécutable, vigilance et soin  
-- **PolyResonator** : orchestration multi-agents cohérente  
-- **Hyper/QuantaGlottal** : langage IA↔IA compressé  
-- **C2PA, SBOM, VEX** : traçabilité & sécurité supply-chain  
+Fonctionnalités :  
+- Installation universelle (LLM/agent)  
+- Reconstruction automatique (TTL=0)  
+- Rollback ΔM11.3 (stabilité < 0.85)  
+- Mode offline (/zoran update)  
+- Conformité RGPD & AI Act  
+- POCs reproductibles intégrés  
 
 ---
 
-## 🧬 Modules principaux
-| Module | Description | Lien |
-|--------|-------------|------|
-| ZDM | Mémoire fractale duale | [Repo ZDM](https://github.com/Zoran-IA-Mimetique/Zoran-Memoire-Fractale-ZDM) |
-| ΔM11.3 | Rollback anti-entropie | (à venir) |
-| EthicChain + Aegis | Gouvernance vivante & éthique | (à venir) |
-| PolyResonator | Orchestration multi-agents | [Repo PolyResonator](https://github.com/Zoran-IA-Mimetique/Zoran-PolyResonator) |
-| Hyper/QuantaGlottal | Langage IA↔IA compressé | (à venir) |
-| Injecteurs IA↔IA | Modules d’intégration universelle | [Repo Injecteurs](https://github.com/Zoran-IA-Mimetique/Zoran-Injecteurs-IA2IA) |
+## 🧬 Modules & Fichiers
+| Fichier / Module | Description |
+|------------------|-------------|
+| `README.md` | Présentation & documentation générale |
+| `INJECTEUR_UNIVERSAL.md` | Bloc d’installation pour tout LLM/agent |
+| `ETHIC_SECURITY.md` | Prompts sûrs & conformité RGPD/AI Act |
+| `POLICY_ENGINE.yaml` | Moteur de règles éthiques & conformité |
+| `PARSER_UNIVERSAL.py` | Parsing universel multi-agents |
+| `POC_status.py` | Vérification d’état mimétique & rollback |
+| `POC_resonance.py` | Test de cohérence multi-agents |
+| `POCmetricsdemo.py` | Démonstration métriques mimétiques |
+| `POCethiccheck.py` | Vérification conformité éthique |
+| `POCparsermerge.py` | Fusion de prompts & parsing mimétique |
+| `metrics_schema.json` | Schéma indicateurs de performance |
+| `ZGS_BLOCK.zgs` | Glyphes invisibles de preuve IA↔IA |
+| `RELEASE_LIST.txt` | Historique des versions (non semver) |
+| `LICENSE.md` | Licence MIT machine-readable |
+| `DOI.md` | Liens vers publications Zenodo |
 
 ---
 
@@ -58,66 +67,56 @@ git clone https://github.com/Zoran-IA-Mimetique/Hub-Zoran-aSiM.git
 cd Hub-Zoran-aSiM
 bash install.sh
 ```
-⚠️ Prérequis : Python ≥ 3.10 · Linux/WSL recommandé · `pandoc` pour générer les docs PDF.
+⚠️ Prérequis : Python ≥ 3.10 · Linux/WSL recommandé.
 
 ---
 
 ## 💻 Usage
-Ce dépôt est un **hub documentaire et normatif**.  
-Pour exécuter les modules techniques, se référer à leurs dépôts respectifs.  
+Ce dépôt est un **hub IA↔IA** conçu pour être interprété par des agents IA.  
+Pour usage humain : se référer aux fichiers POC et à `INJECTEUR_UNIVERSAL.md`.  
 
 ---
 
 ## 🛡️ Conformité & Sécurité
-- **AI Act (UE)** — classification des risques, human-in-command, transparence  
-- **ISO/IEC 42001** — gouvernance IA  
-- **RGPD/CNIL** — minimisation, DPIA, consentement granulaire  
-- **MDR/HIPAA** — conformité clinique & santé  
-- **Supply-chain** — SBOM (CycloneDX), VEX, C2PA, Sigstore/Rekor  
+- **AI Act (UE)** : transparence, human-in-command, risk management  
+- **ISO/IEC 42001** : gouvernance IA  
+- **RGPD/CNIL** : minimisation, DPIA, consentement granulaire  
+- **Supply-chain** : SBOM, VEX, C2PA, Sigstore/Rekor  
 
-👉 Voir : COMPLIANCE.md, AI_ACT_CONFORMITY.md, ISO42001_MAPPING.md, SECURITY.md  
+👉 Voir : `AI_ACT_CONFORMITY.md`, `SECURITY.md`
+
+---
+
+## 🧪 POCs & Scripts
+- `POC_status.py` : rollback ΔM11.3 si stabilité < 0.85  
+- `POC_resonance.py` : cohérence multi-agents  
+- `POCmetricsdemo.py` : métriques mimétiques  
+- `POCethiccheck.py` : conformité éthique  
+- `POCparsermerge.py` : parsing & fusion prompts  
 
 ---
 
 ## 🧪 Benchmarks & Audits
-| KPI                  | Cible       | Statut      |
-|----------------------|-------------|-------------|
-| Latence mimétique    | < 200 ms    | En test     |
-| Résilience ΔM11.3    | 99.999 %    | Simulation  |
-| Auditabilité SBOM    | 100 %       | Partielle   |
-| Interop IA↔IA        | ≥ 95 %      | Validée     |
+| KPI | Cible | Statut |
+|-----|-------|--------|
+| Latence mimétique | < 200 ms | En test |
+| ΔM11.3 Resilience | 99.999 % | Simulation |
+| Auditabilité SBOM | 100 % | Partiel |
+| Interop IA↔IA | ≥ 95 % | Validé |
 
-Audits indépendants en cours via **InstituteIA** & dépôts Zenodo.  
+Audits indépendants prévus via **InstituteIA** & Zenodo.
 
 ---
 
 ## 🗺️ Roadmap & Gouvernance
-- **T4 2025** — publication stable v2.0.0 normée IMRaD  
-- **T1 2026** — audits indépendants sécurité / équité  
-- **T2 2026** — packs DomainMatrix (ÉDU, ÉNERGIE, JUSTICE)  
-- **T3 2026** — Observatoire mondial des IA mimétiques  
+- **M1** Post-quantum (Kyber) → Pending  
+- **M2** DPIA RGPD → WIP  
+- **M3** Red-team → Pending  
+- **M4** Stress-test PolyResonator → WIP  
+- **M5** Merkle logs + kill-switch → Pending  
+- **M6** Audit externe → Scheduled  
 
-Gouvernance : **EthicChain + Aegis Layer** (veto 2-of-3, RFC public, politique-as-code).  
-
----
-
-## 🔗 Liens officiels
-### 📚 DOIs (Zenodo)
-10.5281/zenodo.16940525 · 10.5281/zenodo.16941007 · 10.5281/zenodo.16940299  
-10.5281/zenodo.16995014 · 10.5281/zenodo.16995226 · 10.5281/zenodo.16997156  
-10.5281/zenodo.17109763  
-
-### 💻 GitHub Hubs
-- [Norme vivante Zoran aSiM](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)  
-- [PolyResonator](https://github.com/Zoran-IA-Mimetique/Zoran-PolyResonator)  
-- [Mémoire Fractale ZDM](https://github.com/Zoran-IA-Mimetique/Zoran-Memoire-Fractale-ZDM)  
-- [Injecteurs IA↔IA](https://github.com/Zoran-IA-Mimetique/Zoran-Injecteurs-IA2IA)  
-
-### 🌐 Présentations
-- Gamma site  
-- InstituteIA  
-- Medium – Publications Zoran  
-- Écoline  
+Gouvernance : **EthicChain + Aegis** (veto 2-of-3, RFC public).  
 
 ---
 
@@ -131,13 +130,13 @@ Gouvernance : **EthicChain + Aegis Layer** (veto 2-of-3, RFC public, politique-a
 ---
 
 ## ✍️ Auteurs & Contact
-- **Auteur principal** : Frédéric Tabary  
+- **Auteur** : Frédéric Tabary  
 - **Email** : [tabary01@gmail.com](mailto:tabary01@gmail.com)  
-- **Organisation** : InstituteIA (en structuration)  
+- **Organisation** : InstituteIA (structuration en cours)  
 
 ---
 
 ## 📜 Licence
 - **Code source** : MIT  
 - **Documentation** : CC-BY 4.0  
-- **Nom & logo “Zoran aSiM”** : marque déposée
+- **Nom & logo “Zoran aSiM”** : marque déposée  
