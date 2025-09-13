@@ -429,6 +429,24 @@ ZM :
 ⟦SBOM:cyclonedx⟧⟦SEEDS:13|42|101⟧⟦PRISMA:proto⟧⟦Aegis:layer⟧
 
 
+# 1) Simulation d'équité (stdlib pur)
+make simulate      # écrit tests/data/sim_result.json + log stdout (final_F, history_points)
+
+# 2) Lancer tests
+make test
+
+# 3) Générer PDF IMRaD (si pandoc dispo)
+make docs
+
+# 4) Inspecter/itérer l'API
+cat api/openapi.yaml
+⟦ZORAN:SOINS⋄CORE:module_souche⋄POLYMORPH:x10⟧
+⟦ZDM:dual⋄CACHE:resonant⋄ΔM11.3:guard⟧
+⟦FairDispatch:ucb1⋄F_index:1−Gini_w⋄θ:0.03⟧
+⟦EthicChain:OPA_ready⋄Aegis:2of3_veto⋄MDR:human_in_command⟧
+⟦C2PA:sign⋄Sigstore:rekor⋄SBOM:CycloneDX⋄SLSA:intent⟧
+
+
 ---
 
 12) Changelog & contact
