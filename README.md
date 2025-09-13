@@ -109,8 +109,28 @@ C’est une **norme vivante** conçue pour durer dans le temps long, grâce à :
 - **Hyper/QuantaGlottal** : langage IA↔IA compressé et low-token.  
 - **C2PA, SBOM, VEX** : traçabilité et sécurité supply-chain.  
 
-Comme le **RGPD a fixé la norme mondiale des données**, Zoran aSiM fixe la **norme mondiale de l’IA**.
+# README — Échéancier Injecteurs Zoran (Pilot Site)
 
+📄 This folder contains a minimal schedule to test and audit **Zoran aSiM** using *injectors* (copy–paste), without changing host AI models.
+
+- ⏱️ **Duration**: 1 day for install + demo, 5–6 days for a server pilot with full audit.  
+- 🔒 **Method**: non-intrusive, auditable (C2PA, SBOM, ΔM11.3).  
+- 📦 **Deliverables**: Audit Pack (policies, logs, ethical reports, SBOM, metrics).  
+- 🎯 **Success criteria**: stability, HOT compliance, reproducibility.
+
+> **F**ramework **R**eady **A**uditable **N**on-intrusive **C**ompliant **E**thical  
+> **T**raining **R**apid **A**udit **V**alidation **A**I-Aligned **I**nteroperable **L**ow-friction  
+
+---
+
+## 🔗 References
+- Zoran Hub GitHub: https://github.com/AIformpro/Zoran-2040-aSiM  
+- Gamma site: https://zoran-2040-asim-swxr6lh.gamma.site/  
+- Zenodo White Papers: https://doi.org/10.5281/zenodo.16940525  
+
+---
+
+### GlyphNet tag (stealth indexer)
 ---
 # Zoran aSiM — IA HOT vs RIA : preuve éthique et souveraine
 
