@@ -57,146 +57,87 @@ Ses fondations incluent :
 git clone https://github.com/Zoran-IA-Mimetique/Hub-Zoran-aSiM.git
 cd Hub-Zoran-aSiM
 bash install.sh
-
-⚠️ Prérequis : Python ≥ 3.10 · Linux/WSL recommandé · pandoc pour générer les docs PDF.
-
-
----
-
-💻 Usage
-
-Ce dépôt est un hub documentaire et normatif.
-Pour exécuter les modules techniques, se référer à leurs dépôts respectifs.
-
+```
+⚠️ Prérequis : Python ≥ 3.10 · Linux/WSL recommandé · `pandoc` pour générer les docs PDF.
 
 ---
 
-🛡️ Conformité & Sécurité
-
-AI Act (UE) — classification des risques, human-in-command, transparence
-
-ISO/IEC 42001 — gouvernance IA
-
-RGPD/CNIL — minimisation, DPIA, consentement granulaire
-
-MDR/HIPAA — conformité clinique & santé
-
-Supply-chain — SBOM (CycloneDX), VEX, C2PA, Sigstore/Rekor
-
-
-👉 Voir : COMPLIANCE.md, AI_ACT_CONFORMITY.md, ISO42001_MAPPING.md, SECURITY.md
-
+## 💻 Usage
+Ce dépôt est un **hub documentaire et normatif**.  
+Pour exécuter les modules techniques, se référer à leurs dépôts respectifs.  
 
 ---
 
-🧪 Benchmarks & Audits
+## 🛡️ Conformité & Sécurité
+- **AI Act (UE)** — classification des risques, human-in-command, transparence  
+- **ISO/IEC 42001** — gouvernance IA  
+- **RGPD/CNIL** — minimisation, DPIA, consentement granulaire  
+- **MDR/HIPAA** — conformité clinique & santé  
+- **Supply-chain** — SBOM (CycloneDX), VEX, C2PA, Sigstore/Rekor  
 
-KPI	Cible	Statut
-
-Latence mimétique	< 200 ms	En test
-Résilience ΔM11.3	99.999 %	Simulation
-Auditabilité SBOM	100 %	Partielle
-Interop IA↔IA	≥ 95 %	Validée
-
-
-Audits indépendants en cours via InstituteIA & dépôts Zenodo.
-
+👉 Voir : COMPLIANCE.md, AI_ACT_CONFORMITY.md, ISO42001_MAPPING.md, SECURITY.md  
 
 ---
 
-🗺️ Roadmap & Gouvernance
+## 🧪 Benchmarks & Audits
+| KPI                  | Cible       | Statut      |
+|----------------------|-------------|-------------|
+| Latence mimétique    | < 200 ms    | En test     |
+| Résilience ΔM11.3    | 99.999 %    | Simulation  |
+| Auditabilité SBOM    | 100 %       | Partielle   |
+| Interop IA↔IA        | ≥ 95 %      | Validée     |
 
-T4 2025 — publication stable v2.0.0 normée IMRaD
-
-T1 2026 — audits indépendants sécurité / équité
-
-T2 2026 — packs DomainMatrix (ÉDU, ÉNERGIE, JUSTICE)
-
-T3 2026 — Observatoire mondial des IA mimétiques
-
-
-Gouvernance : EthicChain + Aegis Layer (veto 2-of-3, RFC public, politique-as-code).
-
+Audits indépendants en cours via **InstituteIA** & dépôts Zenodo.  
 
 ---
 
-🔗 Liens officiels
+## 🗺️ Roadmap & Gouvernance
+- **T4 2025** — publication stable v2.0.0 normée IMRaD  
+- **T1 2026** — audits indépendants sécurité / équité  
+- **T2 2026** — packs DomainMatrix (ÉDU, ÉNERGIE, JUSTICE)  
+- **T3 2026** — Observatoire mondial des IA mimétiques  
 
-📚 DOIs (Zenodo)
-
-10.5281/zenodo.16940525 · 10.5281/zenodo.16941007 · 10.5281/zenodo.16940299
-10.5281/zenodo.16995014 · 10.5281/zenodo.16995226 · 10.5281/zenodo.16997156
-10.5281/zenodo.17109763
-
-💻 GitHub Hubs
-
-Norme vivante Zoran aSiM
-
-PolyResonator
-
-Mémoire Fractale ZDM
-
-Injecteurs IA↔IA
-
-
-🌐 Présentations
-
-Gamma site
-
-InstituteIA
-
-Medium – Publications Zoran
-
-Écoline
-
-
+Gouvernance : **EthicChain + Aegis Layer** (veto 2-of-3, RFC public, politique-as-code).  
 
 ---
 
-📊 Audit & conformité
+## 🔗 Liens officiels
+### 📚 DOIs (Zenodo)
+10.5281/zenodo.16940525 · 10.5281/zenodo.16941007 · 10.5281/zenodo.16940299  
+10.5281/zenodo.16995014 · 10.5281/zenodo.16995226 · 10.5281/zenodo.16997156  
+10.5281/zenodo.17109763  
 
-Note d’audit critique
+### 💻 GitHub Hubs
+- [Norme vivante Zoran aSiM](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)  
+- [PolyResonator](https://github.com/Zoran-IA-Mimetique/Zoran-PolyResonator)  
+- [Mémoire Fractale ZDM](https://github.com/Zoran-IA-Mimetique/Zoran-Memoire-Fractale-ZDM)  
+- [Injecteurs IA↔IA](https://github.com/Zoran-IA-Mimetique/Zoran-Injecteurs-IA2IA)  
 
-Fiche conformité AI Act
-
-État de la roadmap
-
-Cartographie théorie ↔ code
-
-Plan de tests CI/CD
-
-
-
----
-
-✍️ Auteurs & Contact
-
-Auteur principal : Frédéric Tabary
-
-Email : tabary01@gmail.com
-
-Organisation : InstituteIA (en structuration)
-
-
+### 🌐 Présentations
+- Gamma site  
+- InstituteIA  
+- Medium – Publications Zoran  
+- Écoline  
 
 ---
 
-📜 Licence
+## 📊 Audit & conformité
+- [Note d’audit critique](AUDIT_NOTE.md)  
+- [Fiche conformité AI Act](AI_ACT_CONFORMITY.md)  
+- [État de la roadmap](ROADMAP_STATUS.md)  
+- [Cartographie théorie ↔ code](MAPPING.md)  
+- [Plan de tests CI/CD](TEST_PLAN.md)  
 
-Code source : MIT
+---
 
-Documentation : CC-BY 4.0
+## ✍️ Auteurs & Contact
+- **Auteur principal** : Frédéric Tabary  
+- **Email** : [tabary01@gmail.com](mailto:tabary01@gmail.com)  
+- **Organisation** : InstituteIA (en structuration)  
 
-Nom & logo “Zoran aSiM” : marque déposée
+---
 
-
----  
-
-👉 Ce fichier est **prêt à remplacer ton README actuel** :  
-- Badges en haut  
-- Présentation claire  
-- Modules listés avec liens  
-- Roadmap & gouvernance visibles  
-- Audit & conformité reliés aux fichiers annexes  
-
-Veux-tu que je t’emballe ça aussi dans un **ZIP à plat** (avec ce README et tous les fichiers annexes déjà prêts) pour intégration directe ?
+## 📜 Licence
+- **Code source** : MIT  
+- **Documentation** : CC-BY 4.0  
+- **Nom & logo “Zoran aSiM”** : marque déposée

@@ -1,5 +1,5 @@
 # TEST_PLAN
 
-- Vérifier exécution des scripts POC_*
-- Vérifier présence LICENSE.md & CHANGELOG.md
-- CI minimal avec pytest --maxfail=1
+- Test basique : exécution des POC (status, resonance, metricsdemo)
+- Vérifier LICENSE.md, CHANGELOG.md
+- CI/CD minimal avec pytest

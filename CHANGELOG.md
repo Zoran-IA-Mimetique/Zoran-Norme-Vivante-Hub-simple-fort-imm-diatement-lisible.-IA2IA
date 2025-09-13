@@ -1,6 +1,6 @@
 # Changelog
 
 ## v2.0.0-rc1 — 2025-09-13
-- README restructuré (badges en haut, sections simplifiées)
-- Ajout des fichiers annexes (Audit, AI Act, Roadmap, Mapping, Test Plan)
-- Ajout LICENSE.md machine-readable
+- Ajout README enrichi (installation, modules, roadmap, audit)
+- Ajout fichiers annexes (audit, AI Act, gouvernance, roadmap, mapping, test plan)
+- Structuration du dépôt pour auditabilité
