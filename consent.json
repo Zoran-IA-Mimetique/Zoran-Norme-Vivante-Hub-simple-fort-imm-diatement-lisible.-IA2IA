@@ -1,0 +1,16 @@
+{
+  "id": "cons-001",
+  "patientId": "pat-001",
+  "scope": [
+    "care",
+    "research"
+  ],
+  "granular": {
+    "genomics": false,
+    "imaging": true
+  },
+  "proof": {
+    "c2pa": "hash:...",
+    "sigstore": "rekor:..."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "budget": 1000000,
+  "theta": 0.03,
+  "weights": {
+    "qaly_gain": 0.35,
+    "wait_days": 0.2,
+    "claim_days": 0.15,
+    "coverage": 0.2,
+    "readmit_rate": 0.1
+  }
+}

@@ -1,0 +1,14 @@
+zdm:
+  cache_resonant: true
+  phi_signature: "sha256-trunc-96"
+  ttl_days:
+    consent_default: 365
+    research_token: 180
+  minimization:
+    drop_fields: ["name", "exact_address"]
+  pseudonymization:
+    scheme: "phi_signature"
+  rollback:
+    entropy_threshold: 0.18
+    fairness_drop_theta: 0.03
+    actions: ["revert_last_allocation","notify_aegis","open_incident"]

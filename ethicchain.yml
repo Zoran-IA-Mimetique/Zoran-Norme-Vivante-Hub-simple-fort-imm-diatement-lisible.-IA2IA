@@ -1,0 +1,17 @@
+ethicchain:
+  version: 1.0
+  principles: [beneficence, non_maleficence, justice, autonomy, explicability]
+  rules:
+    consent_required:
+      description: "No research processing without granular consent"
+      enforcement: "deny"
+    unfair_allocation_guard:
+      description: "Abort allocation step if fairness index drops > theta"
+      enforcement: "rollback"
+    kill_switch_ready:
+      description: "High-risk modules must expose a human-operated kill-switch"
+      enforcement: "mandatory"
+  change_management:
+    rfc_window_days: 7
+    vote_threshold: "simple_majority"
+    veto_roles: ["aegis_chair","clinician_in_charge","regulator_observer"]

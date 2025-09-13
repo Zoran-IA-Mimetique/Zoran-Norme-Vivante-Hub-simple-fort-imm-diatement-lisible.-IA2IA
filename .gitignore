@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+build/
+dist/
+*.log
+sbom/cyclonedx.json
+docs/*.pdf

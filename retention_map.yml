@@ -1,0 +1,5 @@
+retention:
+  Patient: "indefinite (legal basis)"
+  Consent: "ttl_days.consent_default"
+  ResearchToken: "ttl_days.research_token"
+  Claim: "10y (financial regulation)"

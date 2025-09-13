@@ -1,0 +1,10 @@
+{
+  "id": "pat-001",
+  "pid": "phi::0faaf5cb9193011cb4ad3f0a",
+  "birthDate": "1984-05-11",
+  "sex": "female",
+  "postcode": "75010",
+  "equitySegments": [
+    "urban_low_income"
+  ]
+}

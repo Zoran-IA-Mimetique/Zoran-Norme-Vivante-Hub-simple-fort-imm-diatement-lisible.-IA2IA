@@ -1,0 +1,10 @@
+segments:
+  - name: rural_low_income
+    population: 60000
+    vulnerability: 1.5
+  - name: urban_low_income
+    population: 80000
+    vulnerability: 1.25
+  - name: rural_elderly
+    population: 30000
+    vulnerability: 1.5

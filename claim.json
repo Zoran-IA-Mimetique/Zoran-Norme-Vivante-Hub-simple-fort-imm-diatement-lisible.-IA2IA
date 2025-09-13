@@ -1,0 +1,13 @@
+{
+  "id": "claim-001",
+  "patientId": "pat-001",
+  "encounterId": "enc-002",
+  "codes": [
+    "ICD10:E11.9"
+  ],
+  "amount": {
+    "asked": 1200,
+    "approved": 1140
+  },
+  "status": "approved"
+}

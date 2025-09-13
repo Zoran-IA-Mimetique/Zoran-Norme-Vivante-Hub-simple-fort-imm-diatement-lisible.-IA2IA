@@ -1,0 +1,13 @@
+policy:
+  version: 1.0
+  owner: "Zoran EU — Aegis Board"
+  objectives:
+    - governance: "Define roles, metrics, incidents & audits for AI systems in SOINS"
+    - risk: "Continuous risk management & ΔM11.3 rollback on thresholds"
+  metrics:
+    - fairness_index_target: 0.82
+    - latency_p95_ms: 300
+    - claims_p95_days: 7
+  audit:
+    frequency_days: 90
+    provenance: ["c2pa", "sigstore", "rekor"]

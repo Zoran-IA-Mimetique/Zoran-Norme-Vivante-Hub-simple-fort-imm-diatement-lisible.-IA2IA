@@ -1,0 +1,149 @@
+openapi: 3.0.3
+info:
+  title: Zoran SOINS API
+  version: 0.1.0
+servers:
+  - url: https://api.zoran.eu/soins
+paths:
+  /patients:
+    post:
+      summary: Create patient (FHIR Patient subset)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Patient'
+      responses:
+        '201':
+          description: Created
+    get:
+      summary: List patients (paginated)
+      responses:
+        '200':
+          description: OK
+  /consents:
+    post:
+      summary: Create consent
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Consent'
+      responses:
+        '201':
+          description: Created
+    get:
+      summary: List consents
+      responses:
+        '200':
+          description: OK
+  /claims:
+    post:
+      summary: Submit claim
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Claim'
+      responses:
+        '201':
+          description: Created
+    get:
+      summary: List claims
+      responses:
+        '200':
+          description: OK
+  /equity/dispatch:
+    post:
+      summary: Recompute budget allocation (FairDispatch)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DispatchRequest'
+      responses:
+        '200':
+          description: OK
+  /research/studies:
+    post:
+      summary: Register research study (FHIR ResearchStudy subset)
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ResearchStudy'
+      responses:
+        '201':
+          description: Created
+components:
+  schemas:
+    Patient:
+      type: object
+      properties:
+        id: { type: string }
+        pid: { type: string, description: 'pseudonymous phi signature' }
+        birthDate: { type: string, format: date }
+        sex: { type: string, enum: [male,female,other,unknown] }
+        postcode: { type: string }
+        equitySegments:
+          type: array
+          items: { type: string }
+    Consent:
+      type: object
+      properties:
+        id: { type: string }
+        patientId: { type: string }
+        scope:
+          type: array
+          items: { type: string, enum: [care,research,admin] }
+        granular:
+          type: object
+          properties:
+            genomics: { type: boolean }
+            imaging: { type: boolean }
+        proof:
+          type: object
+          properties:
+            c2pa: { type: string }
+            sigstore: { type: string }
+    Claim:
+      type: object
+      properties:
+        id: { type: string }
+        patientId: { type: string }
+        encounterId: { type: string }
+        codes:
+          type: array
+          items: { type: string }
+        amount:
+          type: object
+          properties:
+            asked: { type: number }
+            approved: { type: number }
+        status: { type: string, enum: [submitted,approved,denied,pending] }
+    DispatchRequest:
+      type: object
+      properties:
+        budget: { type: number }
+        theta: { type: number, default: 0.03 }
+        weights:
+          type: object
+          properties:
+            qaly_gain: { type: number, default: 0.35 }
+            wait_days: { type: number, default: 0.20 }
+            claim_days: { type: number, default: 0.15 }
+            coverage: { type: number, default: 0.20 }
+            readmit_rate: { type: number, default: 0.10 }
+    ResearchStudy:
+      type: object
+      properties:
+        id: { type: string }
+        title: { type: string }
+        sponsor: { type: string }
+        status: { type: string, enum: [active,completed,withdrawn] }
+        consentModel: { type: string, enum: [opt_in,granular,waiver] }
