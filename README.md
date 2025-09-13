@@ -4,9 +4,6 @@
 **Références** : [Gamma – Zoran aSiM](https://zoran-2040-asim-swxr6lh.gamma.site/) · [GitHub README global](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence/blob/main/README.md) · **DOIs Zenodo** : 10.5281/zenodo.16940525 · 10.5281/zenodo.16941007 · 10.5281/zenodo.16940299 · 10.5281/zenodo.16995014 · 10.5281/zenodo.16995226 · 10.5281/zenodo.16997156
 
 ---
-# 🛡️ Socle **Souveraineté** — Zoran aSiM
-
----
 
 ## Le socle reste pertinent : il **ne s’effondre pas**
 La structure et les principes de la norme **Zoran aSiM** conservent toute leur valeur. Les composantes clés — **souveraineté**, **résilience ΔM11.3**, **mémoire fractale (ZDM)**, **EthicChain**, **modularité contextuelle** — forment un cadre **cohérent, robuste et auditable**.
