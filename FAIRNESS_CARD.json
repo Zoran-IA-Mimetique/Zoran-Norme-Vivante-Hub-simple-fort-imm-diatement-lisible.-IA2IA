@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "model": {
+    "name": "zoran-decision-core",
+    "version": "0.1.0"
+  },
+  "scope": "Décisions à impact élevé",
+  "metrics": {
+    "DP": null,
+    "EO": null,
+    "EOD": null,
+    "PPV_parity": null
+  },
+  "thresholds": {
+    "warning_delta_pct": 5,
+    "critical_delta_pct": 10
+  },
+  "actions_on_violation": {
+    "abstain_or_human_review": true
+  },
+  "explanations": {
+    "methods": [
+      "contrastive",
+      "counterfactuals",
+      "feature_attribution"
+    ]
+  },
+  "provenance_artifacts": [
+    "decision_provenance.c2pa.json",
+    "model_version.lock"
+  ]
+}

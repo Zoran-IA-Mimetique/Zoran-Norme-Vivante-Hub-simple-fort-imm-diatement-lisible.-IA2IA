@@ -1,0 +1,44 @@
+version: "1.0"
+artifact: "Zoran-aSiM-core"
+generated_at: "2025-09-13"
+owner: "InstituteIA / AIformpro"
+policy_refs:
+  - EU_AI_Act: "risk_management, data_governance, transparency"
+  - ISO_42001: "8.2, 8.3, 9.1"
+  - NIST_AI_RMF: "MAP, MEASURE, MANAGE, GOVERN"
+format: "risk_register+vex"
+
+risks:
+  - id: R-ZDM-001
+    component: "ZDM (Dual Memory: HardCore + Resonant Cache)"
+    description: "Incohérences entre cache résonant et base persistante"
+    threat_model_ref: "TM-ZDM-STRIDE-2025"
+    likelihood: "Medium"
+    impact: "High"
+    severity: "High"
+    controls:
+      - "ΔM11.3 rollback auto si stabilité < seuil"
+      - "Merkle logs + C2PA sur snapshots"
+      - "Parité de lecture/écriture (two-phase commit)"
+    kpis:
+      - name: "stability_avg"
+        target: "≥ 0.97"
+      - name: "rollback_rate"
+        target: "≤ 1.5%"
+    status: "Mitigated"
+    owner: "Core Reliability WG"
+    review_cycle_days: 30
+
+  - id: R-XAI-004
+    component: "Decision Layer (Critical)"
+    description: "Décision non-explicable affectant droits fondamentaux"
+    likelihood: "Low"
+    impact: "Very High"
+    severity: "High"
+    controls:
+      - "Obligation d’explication contrefactuelle"
+      - "Carte d’équité (fairness card) jointe"
+      - "Human-in-the-loop + abstention policy"
+    status: "Open"
+    owner: "Ethics & Safety WG"
+    review_cycle_days: 14
