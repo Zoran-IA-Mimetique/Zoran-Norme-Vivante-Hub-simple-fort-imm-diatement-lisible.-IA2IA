@@ -40,7 +40,6 @@
 [![DOI 10.5281/zenodo.16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014)
 [![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226)
 [![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156)
-
 [![Zenodo DOI 16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525)
 [![Zenodo DOI 16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007)
 [![Zenodo DOI 16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299)
@@ -54,9 +53,9 @@
 [![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226) — LinguaSynthèse  
 [![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2
 [White Papers Zoran aSiM (Zenodo)](https://doi.org/10.5281/zenodo.16940525)  
-- [GitHub Hub Zoran](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)
-- - [White Papers Zoran aSiM (Zenodo)](https://doi.org/10.5281/zenodo.16940525)  
-- [GitHub Hub Zoran](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)  
+[GitHub Hub Zoran](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)
+[White Papers Zoran aSiM (Zenodo)](https://doi.org/10.5281/zenodo.16940525)  
+[GitHub Hub Zoran](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence)  
 
 🚨 🌱 Zoran EU — **Norme Vivante · Hub simple, fort, immédiatement lisible · IA↔IA**
 
@@ -85,9 +84,6 @@
 
 ---
 
-
-
----
 
 ⚡ TL;DR
 
