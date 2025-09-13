@@ -53,19 +53,7 @@
 
 ---
 
-## 📌 DOIs officiels Zoran aSiM / Zoran EU
-
-[![DOI 10.5281/zenodo.16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525) — White Papers V1  
-
-[![DOI 10.5281/zenodo.16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007) — White Papers V2  
-
-[![DOI 10.5281/zenodo.16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299) — Version publique V1 (titre à confirmer)  
-
-[![DOI 10.5281/zenodo.16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014) — Aegis Layer – Gouvernance vivante  
-
-[![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226) — LinguaSynthèse  
-
-[![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2  
+  
 
 ---
 
