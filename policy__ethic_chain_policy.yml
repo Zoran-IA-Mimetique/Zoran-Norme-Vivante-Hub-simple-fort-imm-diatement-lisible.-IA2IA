@@ -1,0 +1,12 @@
+privacy:
+  minimization: true
+  data_subject_rights: ["access","erasure","portability"]
+compliance:
+  rgpd: true
+  ai_act: true
+  iso_42001: true
+audit:
+  logging: "ΔM11.3_logs"
+  retention_days: 365
+risk_management:
+  procedure: "Z-Forge Frédéric Tabary — v3.2 Intègre"

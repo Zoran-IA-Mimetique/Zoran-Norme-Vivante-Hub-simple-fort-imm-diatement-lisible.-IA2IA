@@ -1,0 +1,29 @@
+# FLAT_MANIFEST (original -> flattened)
+
+CITATIONS.bib -> CITATIONS.bib
+code/main.py -> code__main.py
+communication/github_release.md -> communication__github_release.md
+communication/linkedin_post.md -> communication__linkedin_post.md
+communication/summary_1200.md -> communication__summary_1200.md
+communication/summary_1200_fr_en.md -> communication__summary_1200_fr_en.md
+communication/summary_350.md -> communication__summary_350.md
+communication/summary_350_fr_en.md -> communication__summary_350_fr_en.md
+compliance/c2pa_plan.md -> compliance__c2pa_plan.md
+compliance/sbom/sbom.cdx.json -> compliance__sbom__sbom.cdx.json
+compliance/sigstore_plan.md -> compliance__sigstore_plan.md
+data/sample_events.json -> data__sample_events.json
+main_flat.py -> main_flat.py
+Makefile -> Makefile
+metadata/keywords.csv -> metadata__keywords.csv
+metadata/researchers.md -> metadata__researchers.md
+metadata/zenodo.json -> metadata__zenodo.json
+metrics/logs.txt -> metrics__logs.txt
+metrics/metrics.json -> metrics__metrics.json
+metrics/metrics_ablation.json -> metrics__metrics_ablation.json
+policy/ai_act_mapping.md -> policy__ai_act_mapping.md
+policy/ethic_chain_policy.yml -> policy__ethic_chain_policy.yml
+policy/iso_42001_mapping.md -> policy__iso_42001_mapping.md
+README.md -> README.md
+README_FLAT.txt -> README_FLAT.txt
+WHITEPAPER_Zoran_EU_NOW_2300.md -> WHITEPAPER_Zoran_EU_NOW_2300.md
+zgs_block.zgs -> zgs_block.zgs

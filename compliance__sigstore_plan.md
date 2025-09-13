@@ -1,0 +1,1 @@
+- Plan Sigstore : cosign + Rekor (transparence des signatures).

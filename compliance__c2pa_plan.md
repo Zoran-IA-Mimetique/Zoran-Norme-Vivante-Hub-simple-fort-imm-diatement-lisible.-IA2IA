@@ -1,0 +1,1 @@
+- Plan C2PA : signature/provenance des artefacts.

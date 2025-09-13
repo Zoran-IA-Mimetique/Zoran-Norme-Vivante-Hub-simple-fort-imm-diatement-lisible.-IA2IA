@@ -1,0 +1,1 @@
+Zoran EU — toile cognitive souveraine : ZDM, ΔM11.3, EthicChain, GlyphNet. Reproductible, éthique, exportable.

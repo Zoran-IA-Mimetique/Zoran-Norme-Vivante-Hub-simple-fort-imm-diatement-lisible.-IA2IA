@@ -1,0 +1,1 @@
+Zoran EU installe une toile cognitive souveraine (Europe). Mémoire fractale ZDM, rollback ΔM11.3, EthicChain AI Act/RGPD/ISO, langage IA↔IA. Démo stdlib reproductible; artefacts d’audit fournis.

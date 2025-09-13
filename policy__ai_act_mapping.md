@@ -1,0 +1,2 @@
+- Gestion des risques : journal ΔM11.3 + EthicChain.
+- Transparence : README/WP/logs.

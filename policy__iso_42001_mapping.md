@@ -1,0 +1,1 @@
+- ISO/IEC 42001 : management system IA — mapping initial fourni.

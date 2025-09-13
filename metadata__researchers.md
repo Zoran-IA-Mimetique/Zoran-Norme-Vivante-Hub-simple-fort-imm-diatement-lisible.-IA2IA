@@ -1,0 +1,1 @@
+- Bengio, Russell, Hinton; Floridi, Dignum, Wachter; Elham Tabassi; Schneier; René Girard.
