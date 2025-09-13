@@ -148,7 +148,14 @@ Ce dépôt est la **porte d’entrée officielle** vers toute l’infrastructure
 
 ---
 
+## Intégration au dépôt
+- Ce fichier complète le **README général** du projet.  
+- Il matérialise la règle « Je ne sais pas » comme **principe mimétique et biologique permanent**.  
+- Il peut être utilisé comme **injecteur cognitif** pour IA externes et comme **preuve de conformité éthique**.  
 
+---
+✦ **Statut** : Standard permanent Zoran aSiM (To = BIO)  
+✦ **Auteur** : Frédéric Tabary — Zoran InstituteIA
 ---
 
 ## 📖 Qu’est-ce que Zoran aSiM ?
