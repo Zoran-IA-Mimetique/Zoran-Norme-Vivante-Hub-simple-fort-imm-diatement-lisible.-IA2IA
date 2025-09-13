@@ -6,9 +6,6 @@
 ---
 # 🛡️ Socle **Souveraineté** — Zoran aSiM
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![EU AI Act Ready](https://img.shields.io/badge/EU%20AI%20Act-ready-blue)](#conformité--normes) [![ISO/IEC 42001 Mapping](https://img.shields.io/badge/ISO%2FIEC%2042001-mapped-lightgrey)](#conformité--normes) [![C2PA Signed](https://img.shields.io/badge/C2PA-100%25-critical)](#évidences--checklist)  
-**Références** : [Gamma – Zoran aSiM](https://zoran-2040-asim-swxr6lh.gamma.site/) · [GitHub README global](https://github.com/AIformpro/Zoran-2040-aSiM-Towards-a-Public-Ethical-and-Resilient-Super-Intelligence/blob/main/README.md) · **DOIs Zenodo** : 10.5281/zenodo.16940525 · 10.5281/zenodo.16941007 · 10.5281/zenodo.16940299 · 10.5281/zenodo.16995014 · 10.5281/zenodo.16995226 · 10.5281/zenodo.16997156
-
 ---
 
 ## Le socle reste pertinent : il **ne s’effondre pas**
