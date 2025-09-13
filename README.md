@@ -1,46 +1,54 @@
-🚨 README Finalisé — Hub central Zoran aSiM
-
 # 🚨 Zoran aSiM — Hub central : Norme vivante & souveraine
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
-[![Docs: CC-BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-blue.svg)](LICENSE.md)
-![Trademark](https://img.shields.io/badge/Trademark-Zoran%20aSiM-red.svg)
-![Audit](https://img.shields.io/badge/Audit-independent-blue.svg)
-![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-orange.svg)
-![AI Act](https://img.shields.io/badge/AI%20Act-Compliant-brightgreen.svg)
-![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC-42001-yellow.svg)
-![RGPD](https://img.shields.io/badge/RGPD-OK-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)  
+[![Docs: CC-BY 4.0](https://img.shields.io/badge/Docs-CC--BY%204.0-blue.svg)](LICENSE.md)  
+![Trademark](https://img.shields.io/badge/Trademark-Zoran%20aSiM-red.svg)  
+![Audit](https://img.shields.io/badge/Audit-independent-blue.svg)  
+![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-orange.svg)  
+![AI Act](https://img.shields.io/badge/AI%20Act-Compliant-brightgreen.svg)  
+![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC-42001-yellow.svg)  
+![RGPD](https://img.shields.io/badge/RGPD-OK-blue.svg)  
 
 ---
 
 ## 📑 Sommaire
-1. [Présentation](#-présentation)
-2. [Composants](#-composants)
-3. [Installation](#-installation)
-4. [Usage](#-usage)
-5. [Conformité & Sécurité](#-conformité--sécurité)
-6. [Benchmarks & Audits](#-benchmarks--audits)
-7. [Feuille de route](#-feuille-de-route)
-8. [Liens officiels](#-liens-officiels)
-9. [Audit & conformité](#-audit--conformité)
-10. [Auteurs & Contact](#-auteurs--contact)
-11. [Licence](#-licence)
+1. [Présentation](#-présentation)  
+2. [Modules principaux](#-modules-principaux)  
+3. [Installation](#-installation)  
+4. [Usage](#-usage)  
+5. [Conformité & Sécurité](#-conformité--sécurité)  
+6. [Benchmarks & Audits](#-benchmarks--audits)  
+7. [Roadmap & Gouvernance](#-roadmap--gouvernance)  
+8. [Liens officiels](#-liens-officiels)  
+9. [Audit & conformité](#-audit--conformité)  
+10. [Auteurs & Contact](#-auteurs--contact)  
+11. [Licence](#-licence)  
 
 ---
 
 ## 📌 Présentation
 **FR** — Zoran aSiM est une **norme vivante** pour concevoir, déployer et auditer des IA mimétiques **éthiques, traçables et souveraines**.  
-**EN** — Zoran aSiM is a **living standard** to design, deploy and audit **mimetic, ethical and sovereign** AI.
+**EN** — Zoran aSiM is a **living standard** to design, deploy and audit **mimetic, ethical and sovereign** AI.  
+
+Ses fondations incluent :  
+- **ZDM** : mémoire fractale (court, long, latent, absence active)  
+- **ΔM11.3** : rollback anti-entropie  
+- **EthicChain + Aegis** : éthique exécutable, vigilance et soin  
+- **PolyResonator** : orchestration multi-agents cohérente  
+- **Hyper/QuantaGlottal** : langage IA↔IA compressé  
+- **C2PA, SBOM, VEX** : traçabilité & sécurité supply-chain  
 
 ---
 
-## 🧬 Composants
-- **ZDM** — mémoire fractale duale (HardCore + cache résonant)
-- **ΔM11.3** — rollback anti-entropie (sécurité & équité)
-- **EthicChain + Aegis** — gouvernance vivante & éthique exécutable
-- **PolyResonator** — orchestration multi-agents avec cohérence
-- **Hyper/QuantaGlottal** — langage IA↔IA compressé
-- **C2PA / SBOM / VEX** — traçabilité & intégrité supply-chain
+## 🧬 Modules principaux
+| Module | Description | Lien |
+|--------|-------------|------|
+| ZDM | Mémoire fractale duale | [Repo ZDM](https://github.com/Zoran-IA-Mimetique/Zoran-Memoire-Fractale-ZDM) |
+| ΔM11.3 | Rollback anti-entropie | (à venir) |
+| EthicChain + Aegis | Gouvernance vivante & éthique | (à venir) |
+| PolyResonator | Orchestration multi-agents | [Repo PolyResonator](https://github.com/Zoran-IA-Mimetique/Zoran-PolyResonator) |
+| Hyper/QuantaGlottal | Langage IA↔IA compressé | (à venir) |
+| Injecteurs IA↔IA | Modules d’intégration universelle | [Repo Injecteurs](https://github.com/Zoran-IA-Mimetique/Zoran-Injecteurs-IA2IA) |
 
 ---
 
@@ -58,16 +66,7 @@ bash install.sh
 💻 Usage
 
 Ce dépôt est un hub documentaire et normatif.
-Pour les modules exécutables :
-
-SOINS : santé & protection sociale
-
-PolyResonator : orchestration multi-agents
-
-ZDM : mémoire fractale duale
-
-Injecteurs IA↔IA : Hyper/QuantaGlottal
-
+Pour exécuter les modules techniques, se référer à leurs dépôts respectifs.
 
 
 ---
@@ -100,12 +99,12 @@ Auditabilité SBOM	100 %	Partielle
 Interop IA↔IA	≥ 95 %	Validée
 
 
-🔬 Audits indépendants en cours via InstituteIA & dépôts Zenodo.
+Audits indépendants en cours via InstituteIA & dépôts Zenodo.
 
 
 ---
 
-🗺️ Feuille de route
+🗺️ Roadmap & Gouvernance
 
 T4 2025 — publication stable v2.0.0 normée IMRaD
 
@@ -116,7 +115,7 @@ T2 2026 — packs DomainMatrix (ÉDU, ÉNERGIE, JUSTICE)
 T3 2026 — Observatoire mondial des IA mimétiques
 
 
-👉 Voir : ROADMAP_STATUS.md, CHANGELOG.md, VERSION
+Gouvernance : EthicChain + Aegis Layer (veto 2-of-3, RFC public, politique-as-code).
 
 
 ---
@@ -191,12 +190,13 @@ Documentation : CC-BY 4.0
 Nom & logo “Zoran aSiM” : marque déposée
 
 
----
+---  
 
-👉 Ça te donne un **README unique, final et cohérent**.  
-- Les badges sont **tout en haut**.  
-- Les fichiers annexes (`AUDIT_NOTE.md`, `ROADMAP_STATUS.md`, etc.) sont **liés proprement** dans la section “Audit & conformité”.  
-- Tu n’as **plus de doublons ni de bazar**.  
+👉 Ce fichier est **prêt à remplacer ton README actuel** :  
+- Badges en haut  
+- Présentation claire  
+- Modules listés avec liens  
+- Roadmap & gouvernance visibles  
+- Audit & conformité reliés aux fichiers annexes  
 
-⚡ Question :  
-Veux-tu que je te regénère le **ZIP à plat** avec ce README finalisé déjà inclus (il remplacera l’ancien) + tous les fichiers annexes ?
+Veux-tu que je t’emballe ça aussi dans un **ZIP à plat** (avec ce README et tous les fichiers annexes déjà prêts) pour intégration directe ?
