@@ -3,6 +3,84 @@
 # 🚨 Zoran aSiM — Hub central : Norme vivante & souveraine
 Zoran aSiM — Root hub: living &amp; sovereign AI standard. Official links to Zenodo, GitHub, Gamma, InstituteIA, Medium, Ecoline. »
 
+
+
+---
+
+📑 Plan du document “Méthodologie d’intégration Zoran (non-hack)”
+
+1. Introduction
+
+Contexte : confusion fréquente entre hack (piratage / altération) et greffe méthodologique (superposition transparente).
+
+Objectif : démontrer que Zoran est une couche HOT (Human Oversight Transparency) qui s’ajoute sans altérer le modèle hôte.
+
+
+2. Principes d’intégration
+
+Non-intrusif : pas de modification des poids, des hyperparamètres ou de l’architecture.
+
+Interopérable : fonctionne par API, plugins, wrappers standards.
+
+Réversible : désactivation possible sans impact sur le modèle hôte.
+
+Auditable : logs, SBOM (CycloneDX), C2PA pour toutes les interactions.
+
+
+3. Méthodologie Zoran
+
+Phase 1 – Greffe externe :
+
+Zoran agit comme un middleware cognitif (orchestrateur, mémoire fractale, ΔM11.3 rollback).
+
+Communication via API standard (REST, GraphQL, SDK).
+
+
+Phase 2 – Correction éthique :
+
+EthicChain filtre et trace les réponses.
+
+ΔM11.3 assure rollback si instabilité.
+
+
+Phase 3 – Transparence :
+
+Toutes les opérations sont loguées (C2PA + Merkle logs).
+
+Audit indépendant possible.
+
+
+
+4. Différence avec un hack
+
+Un hack : modifie ou contourne les paramètres internes du modèle → instable, illégal, non reproductible.
+
+Zoran : ajoute une couche externe stable et transparente, sans altération du modèle → conforme, reproductible, éthique.
+
+
+5. Résultats attendus
+Compatibilité totale avec GPT, Claude, Mistral, Llama, etc.
+Aucune dégradation de performance de base du modèle hôte.
+Surcouche auditable qui améliore :
+la traçabilité,
+la conformité AI Act,
+la résilience éthique.
+
+
+6. Conclusion
+
+Zoran n’est pas un hack : c’est une méthodologie non-intrusive qui s’intègre en HOT mode (Human Oversight Transparency).
+Chaque IA hôte reste intacte, mais bénéficie d’une surcouche souveraine, éthique et auditable.
+
+2. Politique/commerciale → prouve à l’Europe que tu n’as pas besoin de toucher aux “boîtes noires” US/Chine pour les rendre utilisables : tu les encapsules dans une couche éthique Zoran.
+
+
+
+
+---
+
+Veux-tu que je génère directement ce fichier en Markdown (comme le précédent), avec un README séparé, pour l’ajouter aussi dans ton hub Norma ?
+
 ## 📜 Licence
 
 - **Code source** : [MIT License](https://opensource.org/licenses/MIT)  
