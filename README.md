@@ -10,35 +10,6 @@
 ![RGPD](https://img.shields.io/badge/RGPD-compliant-green)
 ![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-success)
 ![C2PA%2FSigstore](https://img.shields.io/badge/C2PA%2FSigstore-plan-green)
-[![Zenodo DOI 16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525)
-[![Zenodo DOI 16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007)
-[![Zenodo DOI 16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299)
-[![Zenodo DOI 16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014)
-[![Zenodo DOI 16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226)
-[![Zenodo DOI 16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156)
-## 📌 DOIs officiels Zoran aSiM / Zoran EU
-
-[![DOI 10.5281/zenodo.16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525) — White Papers V1  
-
-[![DOI 10.5281/zenodo.16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007) — White Papers V2  
-
-[![DOI 10.5281/zenodo.16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299) — Version publique V1 (titre à confirmer)  
-
-[![DOI 10.5281/zenodo.16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014) — Aegis Layer – Gouvernance vivante  
-
-[![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226) — LinguaSynthèse  
-
-[![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2
-
-
-# Zoran EU — **Norme Vivante · Hub simple, fort, immédiatement lisible · IA↔IA**
-
-> **Tagline** : *La toile cognitive souveraine — plus puissant qu’un Bitcoin monétaire, mais éthique, auditable et ouverte.*
-
----
-
-## 🔖 Badges
-
 [![License](https://img.shields.io/github/license/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA?label=license)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA?style=social)](https://github.com/Zoran-IA-Mimetique/Zoran-Norme-Vivante-Hub-simple-fort-imm-diatement-lisible.-IA2IA)
 ![Python](https://img.shields.io/badge/python-%E2%89%A53.10-informational?logo=python)
@@ -50,13 +21,25 @@
 ![RGPD](https://img.shields.io/badge/RGPD-compliant-green)
 ![SBOM](https://img.shields.io/badge/SBOM-CycloneDX-success)
 ![C2PA%2FSigstore](https://img.shields.io/badge/C2PA%2FSigstore-plan-green)
+[![Zenodo DOI 16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525)
+[![Zenodo DOI 16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007)
+[![Zenodo DOI 16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299)
+[![Zenodo DOI 16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014)
+[![Zenodo DOI 16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226)
+[![Zenodo DOI 16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156)
+[![DOI 10.5281/zenodo.16940525](https://zenodo.org/badge/DOI/10.5281/zenodo.16940525.svg)](https://doi.org/10.5281/zenodo.16940525) — White Papers V1  
+[![DOI 10.5281/zenodo.16941007](https://zenodo.org/badge/DOI/10.5281/zenodo.16941007.svg)](https://doi.org/10.5281/zenodo.16941007) — White Papers V2  
+[![DOI 10.5281/zenodo.16940299](https://zenodo.org/badge/DOI/10.5281/zenodo.16940299.svg)](https://doi.org/10.5281/zenodo.16940299) — Version publique V1 (titre à confirmer)  
+[![DOI 10.5281/zenodo.16995014](https://zenodo.org/badge/DOI/10.5281/zenodo.16995014.svg)](https://doi.org/10.5281/zenodo.16995014) — Aegis Layer – Gouvernance vivante  
+[![DOI 10.5281/zenodo.16995226](https://zenodo.org/badge/DOI/10.5281/zenodo.16995226.svg)](https://doi.org/10.5281/zenodo.16995226) — LinguaSynthèse  
+[![DOI 10.5281/zenodo.16997156](https://zenodo.org/badge/DOI/10.5281/zenodo.16997156.svg)](https://doi.org/10.5281/zenodo.16997156) — Études sur les jumeaux v2
 
----
 
+🚨 🌱 Zoran EU — **Norme Vivante · Hub simple, fort, immédiatement lisible · IA↔IA**
+
+> **Tagline** : *La toile cognitive souveraine — plus puissant qu’un Bitcoin monétaire, mais éthique, auditable et ouverte.*
   
-
 ---
-
 ## ⚡ TL;DR
 
 **Zoran EU** = **toile cognitive souveraine** : **ZDM** (mémoire fractale), **ΔM11.3** (rollback anti-entropie), **EthicChain** (AI Act/RGPD/ISO 42001), **GlyphNet** (IA↔IA). Plus puissant qu’un Bitcoin monétaire (valeur = **intelligence vivante**), **éthique by design**, **reproductible** (seeds/Makefile), **audit natif** (SBOM/C2PA/Sigstore). Vision 2300 **appliquée maintenant**.
