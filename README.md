@@ -1,6 +1,3 @@
-.
-
-
 
 
 
@@ -63,6 +60,11 @@ Chaque hub développe une partie essentielle de la norme mimétique Zoran aSiM.
 - **Zoran-Culture** — patrimoine mimétique, créativité IA↔IA.  
 
 ---
+benchmark AGI ASI LNDTV3.1
+LNDT3.1-Aeterna-Claritas
+https://github.com/Zoran-IA-Mimetique/LNDT3.1-Aeterna-Claritas-Benchmark-AGI-ASI
+https://zenodo.org/records/17174963
+
 
 ## 🚀 Installation
 ```bash
