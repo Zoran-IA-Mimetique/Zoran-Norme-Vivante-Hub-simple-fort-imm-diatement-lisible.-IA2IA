@@ -8,7 +8,7 @@
 ![AI Act](https://img.shields.io/badge/AI%20Act-Checklist%20Ready-brightgreen.svg)  
 ![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC-42001-mapping-yellow.svg)  
 ![RGPD](https://img.shields.io/badge/RGPD-DPIA%20WIP-blue.svg)  
-
+https://github.com/Zoran-IA-Mimetique/LNDT-V11-GlyphNet-Injecteur-Ultra-Glyphique-Outil-d-talonnage-Benchmark-Cognitif
 ---
 
 ## 📌 Présentation
@@ -52,6 +52,7 @@ Chaque hub développe une partie essentielle de la norme mimétique Zoran aSiM.
 - [Zoran-Memoire-Fractale-ZDM](https://github.com/Zoran-IA-Mimetique/Zoran-Memoire-Fractale-ZDM) — mémoire fractale duale.  
 - [Zoran-Injecteurs-IA2IA](https://github.com/Zoran-IA-Mimetique/Zoran-Injecteurs-IA2IA) — injecteurs IA↔IA.  
 - [Zoran-Ministères-Hub-IA2IA](https://github.com/Zoran-IA-Mimetique/Zoran-Minist-res-Hub-IA2IA) — ce dépôt, hub principal (Ministères).  
+
 
 ### 🛠️ En cours de développement (12–18 mois)
 - **Zoran-Éducation** — pédagogie mimétique, apprentissage souverain.  
