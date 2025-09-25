@@ -9,6 +9,8 @@
 ![ISO/IEC 42001](https://img.shields.io/badge/ISO%2FIEC-42001-mapping-yellow.svg)  
 ![RGPD](https://img.shields.io/badge/RGPD-DPIA%20WIP-blue.svg)  
 https://github.com/Zoran-IA-Mimetique/LNDT-V11-GlyphNet-Injecteur-Ultra-Glyphique-Outil-d-talonnage-Benchmark-Cognitif
+https://github.com/Zoran-IA-Mimetique/Zoran-WhitePaper-Hallucinations-IA/blob/main/README.md
+
 ---
 
 ## 📌 Présentation
