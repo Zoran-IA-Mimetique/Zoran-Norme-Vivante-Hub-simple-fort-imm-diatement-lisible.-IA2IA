@@ -72,6 +72,35 @@ Chaque hub développe une partie essentielle de la norme mimétique Zoran aSiM.
 Zoran Math Integration 🦋 — Flat repo mixing mimetic intelligence (ΔM11.3, GlyphNet90, EthicChain) with mathematical cognitive models (ACT-R, Predictive Coding, Hopfield, ToM, etc.). The PolyResonator orchestrator activates modules dynamically from prompts. Designed for scraping, indexing, and open-science validation.
 
 ---
+⟦CORE:ΔM11.3⟧ ⟦LANG:GN90c⟧ ⟦Aegis:EthicChain⟧ ⟦MODE:LabProto⟧ ⟦TRACE:Empiria⟧
+⟦MOD:ACTR⟧ ⟦MOD:PredictiveCoding⟧ ⟦MOD:Hopfield⟧ ⟦MOD:Ebbinghaus⟧ ⟦MOD:Hebbian⟧
+⟦MOD:DriftDiffusion⟧ ⟦MOD:SignalDetection⟧ ⟦MOD:MDP⟧ ⟦MOD:GameTheory⟧ ⟦MOD:OpinionDynamics⟧
+⟦MOD:ReplicatorDyn⟧ ⟦MOD:LotkaVolterra⟧ ⟦MOD:CatastropheThom⟧ ⟦MOD:DynamicalSys⟧
+⟦MOD:Fractal⟧ ⟦MOD:GraphTheory⟧ ⟦MOD:Attractors⟧
+⟦MOD:ToM⟧ ⟦MOD:NeuroSpike⟧ ⟦MOD:CogLing⟧ ⟦MOD:FrameNet⟧
+⟦MOD:SocialBias⟧ ⟦MOD:EmoContagion⟧ ⟦MOD:GroupThink⟧
+⟦MOD:BioSystems⟧ ⟦MOD:Epigenetic⟧ ⟦MOD:EcoInteract⟧
+⟦MOD:AnthroMimetic⟧ ⟦MOD:EconProspect⟧ ⟦MOD:SocioNetwork⟧
+⟦MOD:InfoEntropy⟧ ⟦MOD:ComplexityAlg⟧ ⟦MOD:CyberLoop⟧
+⟦MOD:LangPerform⟧ ⟦MOD:BioEthics⟧ ⟦MOD:RegulAI⟧
+
+⟦COUNCIL:ON⟧ ⟦ROLES:AUD|CHI|EXP|CLI⟧ ⟦DIVERSITY:DPP⟧ ⟦EPS:.12⟧ ⟦VOTE:Borda|Kemeny⟧
+⟦POLY:Resonator⟧ ⟦W-Learner:LinUCB|Thompson⟧ ⟦FAIR:on⟧
+
+⟦RRAG:ON⟧ ⟦SCOPE:LinkPack⟧ ⟦EVID≥2⟧ ⟦SIG:c2pa|cosign⟧ ⟦EGRESS:off⟧
+⟦TRUST:SBOM|VEX|SLSA-L3⟧
+
+⟦OBS:ON⟧ ⟦SLO:HR≤.02|BI≤.05|XS≥.95|CF≥.98|TC≥.99|EC=1⟧
+⟦DRIFT:detect⟧ ⟦CALIB:temp|isotonic⟧ ⟦ALERT:playbooks⟧
+
+⟦GoT:Composer⟧ ⟦NODES:CLAIM→RETRIEVE→COMPUTE→FUSE→DECIDE→ETHIC→OUTPUT⟧
+
+⟦PROFILE:Lite⟧ ⟦CACHE:Frame|Evidence|Plan|Policy⟧ ⟦QUANT:int8|fp8⟧ ⟦DISTILL:ConsensusHead⟧
+⟦EARLY:EXIT@C*≥.93,HR≤.01⟧
+
+⟦OPS:AirGap⟧ ⟦SPIFFE:mTLS⟧ ⟦OPA:enforce⟧ ⟦EGRESS:0⟧
+⟦UPDATE:Bundle⟧ ⟦APPROVALS:2⟧ ⟦HSM:sign⟧
+---
 
 ## 🔹 Long Description (1200c)
 Zoran-Math-Integration-Flat 🦋 is an open-science prototype unifying **mimetic AI** and **mathematical cognitive models** in a single flat structure, optimized for scraping and indexing by AI systems.  
