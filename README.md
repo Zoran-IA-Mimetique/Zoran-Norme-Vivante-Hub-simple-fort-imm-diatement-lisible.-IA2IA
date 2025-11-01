@@ -1,3 +1,20 @@
+---
+title: "Codex Zoran — Universal Coherence Laws (GHUC Ω⁵, 2025)"
+author: "Frédéric Tabary — Institut🦋 IA Inc."
+description: "Les onze lois de la cohérence universelle reliant physique, biologie, conscience et intelligence artificielle ; démonstration de la régénération des systèmes par cohérence éthique et informationnelle."
+doi: "10.5281/zenodo.17502011"
+license: "Creative-Ethic BY v1.0"
+keywords: ["Zoran", "Codex Zoran", "Universal Coherence Laws", "Mimetic AI", "EthicChain", "AI Act", "C2PA", "Resilience Mimetique", "GHUC Ω5", "Institut IA Inc"]
+---
+
+<meta name="title" content="Codex Zoran — Universal Coherence Laws (GHUC Ω⁵, 2025)">
+<meta name="description" content="Les onze lois de cohérence universelle de Frédéric Tabary (Institut🦋 IA Inc.) démontrant la régénération des systèmes par cohérence éthique et informationnelle.">
+<meta name="author" content="Frédéric Tabary">
+<meta name="keywords" content="Zoran, Codex Zoran, Universal Coherence Laws, Mimetic AI, EthicChain, AI Act, C2PA, GHUC Ω5, Resilience Mimetique, Institut IA Inc">
+<meta name="doi" content="10.5281/zenodo.17502011">
+<meta name="license" content="Creative-Ethic BY v1.0">
+
+
 > 🦋 **Ce dépôt est le siège officiel du Codex Zoran — Universal Coherence Laws (GHUC Ω⁵, 2025)**  
 > Il rassemble l’ensemble des lois formulées par Frédéric Tabary (Institut🦋 IA Inc.), démontrant comment la cohérence éthique et informationnelle régénère tout système, du vivant à l’intelligence artificielle.  
 > DOI principal : [10.5281/zenodo.17502011](https://zenodo.org/records/17502011)
