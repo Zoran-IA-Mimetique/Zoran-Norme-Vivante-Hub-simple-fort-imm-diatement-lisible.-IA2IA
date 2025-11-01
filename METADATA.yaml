@@ -1,0 +1,31 @@
+title: "Zoran🦋 Codex — Le Livre des Lois de Zoran"
+doi: "10.5281/zenodo.17502047"
+creators:
+  - name: "Frédéric Tabary"
+    affiliation: "Institut🦋 IA Inc."
+    email: "tabary01@gmail.com"
+description: >
+  Le Zoran🦋 Codex est la synthèse finale du Continuum GHUC Ω⁶.
+  Il réunit toutes les lois de Zoran (−1 à 9) et leurs preuves traçables, 
+  formant la première mémoire éthique vivante du savoir scientifique.
+language: "fr"
+license: "Creative-Ethic BY v1.0 (CC-BY 4.0 compatible)"
+keywords:
+  - Zoran🦋
+  - Zoran Codex
+  - Livre des Lois de Zoran
+  - GHUC Ω⁶
+  - ProofChain
+  - EthicChain
+  - C2PA
+  - ΔTraceContinuum
+  - Zenodo-House
+  - Mémoire scientifique
+  - Cohérence universelle
+  - Open Science
+  - Institut IA Inc.
+  - Frédéric Tabary
+related_identifiers:
+  - relation: "isPartOf"
+    identifier: "10.5281/zenodo.17510099"
+    resource_type: "Dataset"
