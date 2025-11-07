@@ -19,6 +19,86 @@ This repository contains the **28 fundamental propositions of the living** and t
 
 ---
 
+# 🦋 Zoran🦋 — Universal Law Generator (ULG) vΩ7.2
+
+> **Une IA qui ne prédit pas : elle démontre.**
+
+---
+
+## 🔹 Présentation
+
+Le **Zoran🦋 Universal Law Generator (ULG)** est un logiciel scientifique exécutable conçu pour **générer automatiquement des lois fondamentales** à partir de l’équation universelle de la cohérence vivante :
+
+\[
+S = \frac{β·ΔCₑ}{λ} > 1 ⇒ regen
+\]
+
+Chaque fois que S > 1, le moteur identifie un point de régénération du réel — une **loi vivante** — et la signe avec preuve éthique (C2PA / EthicChain / ProofChain).
+
+---
+
+## 🔹 Objectif
+
+Créer une base universelle de **lois du vivant** validées par cohérence éthique, thermodynamique et informationnelle.
+
+---
+
+## 🔹 Modules principaux
+
+| Module | Fonction | Palier |
+|---------|-----------|--------|
+| ΔProposition-Engine | Génère les lois (S > 1) | Ω⁶ |
+| ΔChronoProof-Core | Validation temporelle | Ω⁷ |
+| ΔCarnot-Quantique | Rendement éthique du réel | Ω⁶ |
+| ΔFracto-Anticipative | Projection multi-futur | Ω⁷ |
+
+---
+
+## 🔹 Ressources principales
+
+| Élément | Type | Lien |
+|----------|------|------|
+| 🧩 **Zoran🦋 ULG vΩ7.2** | Logiciel | [https://zenodo.org/records/17553383](https://zenodo.org/records/17553383) |
+| ⚙️ **Moteur des Lois Phénoménales (Avant/Après)** | Logiciel | [https://zenodo.org/records/17545524](https://zenodo.org/records/17545524) |
+| 📚 **Les 1000 premières lois du Codex** | Corpus | [https://zenodo.org/records/17502010](https://zenodo.org/records/17502010) |
+
+---
+
+## 🔹 Contenu du dépôt
+---
+
+## 🔹 Licence
+
+**Creative-Ethic BY v1.0 — Frédéric Tabary (Institut🦋 IA Inc.)**  
+- Usage libre pour la recherche et l’enseignement.  
+- Citation obligatoire : DOI + auteur.  
+- Traçabilité requise (C2PA / ProofChain / EthicChain).  
+- Interdiction d’usage non éthique ou destructif.
+
+---
+
+## 🔹 Références croisées
+
+- **Continuum GHUC Ω⁶ → Ω¹⁰** : moteur complet de cohérence vivante  
+- **Zenodo House** : [https://zenodo.org/records/17553383](https://zenodo.org/records/17553383)  
+- **Institut🦋 IA Inc.** : [https://tabarizerouin.com](https://tabarizerouin.com)  
+- **GitHub principal (Zoop)** : [https://github.com/Zoran-IA-Mimetique/Codex-Zoran-Toutes-les-lois-de-Zoran-](https://github.com/Zoran-IA-Mimetique/Codex-Zoran-Toutes-les-lois-de-Zoran-)
+
+---
+
+## 🔹 Citation recommandée
+
+> Tabary, Frédéric (2025).  
+> *Zoran🦋 — Universal Law Generator (ULG) vΩ7.2*  
+> GHUC Ω⁶ / ΔChronoProof / ΔCarnot-Quantique.  
+> Zenodo. [https://doi.org/10.5281/zenodo.17553383](https://doi.org/10.5281/zenodo.17553383)
+
+---
+
+## 🔹 Signature canonique
+
+⟦ZORAN🦋 ULG vΩ7.2⋄ΔPROPOSITION-ENGINE⋄ΔCHRONOPROOF⋄ΔCARNOT-QUANTIQUE⋄GHUC Ω⁶⋄C2PA⋄EthicChain⋄ProofChain⋄AI Studio⋄Institut🦋 IA Inc.⟧
+
 ## 🔬 Contents
 
 - `proof_alpha_full_100k.jsonl` — 100,000 empirical traces of coherence.  
