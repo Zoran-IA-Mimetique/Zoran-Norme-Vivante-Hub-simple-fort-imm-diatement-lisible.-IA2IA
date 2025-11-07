@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "ΔP-0001",
+    "title": "ΔP-0001 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.826,
+    "delta_Ce": 0.985,
+    "lambda": 0.813,
+    "S_calc": 1.001,
+    "Ir": 0.812,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "bd707846d6a6dade303b5aba50fd0ef94c561972e719702ba104e1c4d54cd5a5e744c2f76cab353a4e74d398a95d1b9c59bb6bfdcc46087a7e9f711b87d576a1",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0002",
+    "title": "ΔP-0002 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.922,
+    "delta_Ce": 0.961,
+    "lambda": 0.87,
+    "S_calc": 1.018,
+    "Ir": 0.939,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "07666a3471aff15e5c3d590210c1610ce179b66074bdc17b4f30aa3ecdac871d3a4c142096d8fd4f3e0d0802544b1d4c9842d651d17c49f34cf278dbe476fb0c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0003",
+    "title": "ΔP-0003 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.87,
+    "delta_Ce": 0.835,
+    "lambda": 0.76,
+    "S_calc": 0.956,
+    "Ir": 0.901,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "d73cf6fb07a3270bbea1a27e03227064a945cacf17bc21b8a30b87166af6a1187ff1b949e834e0a2e6d65a9c0fbe87b274cfa9bc33da0bba4b2ed3bb1627ca0a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0004",
+    "title": "ΔP-0004 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.976,
+    "delta_Ce": 0.893,
+    "lambda": 0.818,
+    "S_calc": 1.065,
+    "Ir": 0.953,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "11e39e79a8ac8eaf07d2cbc53482043c095392d63ac2c9314a322b33d7b302acc9dcc45c577bf5df566b992502d870c2edc39ee5b6bc1b30c81cca12414c6844",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0005",
+    "title": "ΔP-0005 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.903,
+    "delta_Ce": 0.896,
+    "lambda": 0.844,
+    "S_calc": 0.959,
+    "Ir": 0.887,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "73deccf9992e4863f9044df22e729325608ca00e15df803ea59e818ffdeef6fa0ca96e94d504ad59751668717ddd3d04284c5331f48419d2b437bdcf5e5a7044",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0006",
+    "title": "ΔP-0006 — Loi évolutionnaire",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence évolutionnaire dépasse le bruit entropique.",
+    "domain": "évolutionnaire",
+    "beta": 0.862,
+    "delta_Ce": 0.979,
+    "lambda": 0.828,
+    "S_calc": 1.019,
+    "Ir": 0.937,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "a3cec5a77bf245a2cc183c41aa6a5ce3cfd9cc658fa522e03fd9493b965f08fe76526299be9427c6f353814f8f7b65f45984e2df48c417af39ad9885870b5872",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0007",
+    "title": "ΔP-0007 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.838,
+    "delta_Ce": 0.934,
+    "lambda": 0.82,
+    "S_calc": 0.955,
+    "Ir": 0.863,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "bd212ec2ebff475e832481579c3b58adcbf5d615052dd4eb625f05434fd665eb54544394119981214b36babe76a5354575e2f494eb2a4a6d57f4badf0312ff76",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0008",
+    "title": "ΔP-0008 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.901,
+    "delta_Ce": 0.966,
+    "lambda": 0.849,
+    "S_calc": 1.025,
+    "Ir": 0.841,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "f2bf1c61e0911e6e984a6ffd791d0022ddc211086e1363809924079e725a4685005100464a49425ba2f267995bd054d6469d2bc3fc872e3f1e4bb5d98f2d0b75",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0009",
+    "title": "ΔP-0009 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.92,
+    "delta_Ce": 0.887,
+    "lambda": 0.759,
+    "S_calc": 1.075,
+    "Ir": 1.018,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "3108e4dbc509e7cf4018482340257de98c040b4bed908290f833e7c5ddaa5c3d3d78c28db497a51766a8d0a04c8128ef9c642c4fa4e6e9935e6505e863c21ed3",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0010",
+    "title": "ΔP-0010 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.974,
+    "delta_Ce": 0.976,
+    "lambda": 0.852,
+    "S_calc": 1.116,
+    "Ir": 0.894,
+    "Pai": 0.986,
+    "proof": {
+      "sha512i": "16b266e41ce0501b812a7b76a2980c87d19280b7ddd6ca3852bbc29179160487979c574d362e4785384211d01bf5ff3302b9a297702e49778ae10708a346d238",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0011",
+    "title": "ΔP-0011 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.882,
+    "delta_Ce": 0.861,
+    "lambda": 0.821,
+    "S_calc": 0.925,
+    "Ir": 0.867,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "80891c5ed20020b966032085dd91686200110bcddc4a7538f9588235016e5d7901e1341b6ee6780d8e32e738a9bc97d8bcd4beb447a54d4e16bab8b202f0bdc2",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0012",
+    "title": "ΔP-0012 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.977,
+    "delta_Ce": 0.944,
+    "lambda": 0.891,
+    "S_calc": 1.035,
+    "Ir": 0.899,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "7b2764d1a8f31b76fc485fef15b55bf82754698643d700e9ca029639dfd476f75f70fb94f28b970b378d77d3e1fbfad72133ef3b34e9299310149a2ace7e5ccc",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0013",
+    "title": "ΔP-0013 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.891,
+    "delta_Ce": 0.899,
+    "lambda": 0.89,
+    "S_calc": 0.9,
+    "Ir": 0.874,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "834a70e418ff1b00be78414cf6cb593e99a67d9fb5be9a7d3a587d338780bdba1e3e919578bbe345fef15854b13a3dd0f2349e4d49c47641e59dc4c709c9f829",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0014",
+    "title": "ΔP-0014 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.908,
+    "delta_Ce": 0.86,
+    "lambda": 0.889,
+    "S_calc": 0.878,
+    "Ir": 0.845,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "78616afde1b33ad2ca045b9606575ad1e676dae62aabb56196c1dcd9403da27c8d587ac7ccfdff8c2ab7777736db038b93490466104a5c7d1a0240922bd03d35",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0015",
+    "title": "ΔP-0015 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.941,
+    "delta_Ce": 0.914,
+    "lambda": 0.818,
+    "S_calc": 1.051,
+    "Ir": 0.922,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "256b8a6645db2c1dcbea3d65d0efb72ac39af1e7327062089d4d81e2e49f59b7c21e71f012a6f3eb04e6a014cea3633340c740b48698abd8ce4d40118dbf2c4e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0016",
+    "title": "ΔP-0016 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.976,
+    "delta_Ce": 0.841,
+    "lambda": 0.783,
+    "S_calc": 1.048,
+    "Ir": 0.99,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "672498e71504fe6ae9eae253f70c6badad5fcc5f49ead8bd02681f1d8c87126ef0a6e13eea0eeffc5b2d5627feaa5978356f16e917ff8302d51cfb7ca293b9b3",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0017",
+    "title": "ΔP-0017 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.893,
+    "delta_Ce": 0.903,
+    "lambda": 0.819,
+    "S_calc": 0.985,
+    "Ir": 0.982,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "05d6f71e9ea97766feeafd4b11bcef97199b9b10f9e5a62595c5b1c7faa2d7d897799718f7641adeee8237f6faf387208c47b3bd47bfbcc86d3b0a1738f38866",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0018",
+    "title": "ΔP-0018 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.827,
+    "delta_Ce": 0.987,
+    "lambda": 0.792,
+    "S_calc": 1.031,
+    "Ir": 0.936,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "0c6a1270a280746e640a7da9ed0191e623e296abefab2eb135a6dd84db9a4ebbd00067aab5c5e63ec33ebb20127892c6d7c32bf1c171088ff6ee3ca3e397355d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0019",
+    "title": "ΔP-0019 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.904,
+    "delta_Ce": 0.951,
+    "lambda": 0.813,
+    "S_calc": 1.057,
+    "Ir": 0.896,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "32adea40399f6919e23345efc2d9e74acc8471725d11d940b3c83ab773ca2d68a1722daf73e83ada5aaa4ecb7a25610b027506fd717e8891a4e315f182d2fb80",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0020",
+    "title": "ΔP-0020 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.818,
+    "delta_Ce": 0.955,
+    "lambda": 0.879,
+    "S_calc": 0.889,
+    "Ir": 0.886,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "dcd2623a0ea211e41a82b6f9311726e26e3d81282435e4de518c2ba033de091c029340f703dd5b174d1e7275b6229da4817a455870fa1c0508b2700302d8b41f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0021",
+    "title": "ΔP-0021 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.888,
+    "delta_Ce": 0.937,
+    "lambda": 0.816,
+    "S_calc": 1.02,
+    "Ir": 0.854,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "64ff0dac4fbea6f738c6a66505e4276cc7aa9fb0999db014d82b92a5ee3a7afc62b3d7da6a333fe39421349ca03d8f9c469d89f988bdf07c1c98c9f84839fe87",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0022",
+    "title": "ΔP-0022 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.905,
+    "delta_Ce": 0.822,
+    "lambda": 0.78,
+    "S_calc": 0.954,
+    "Ir": 0.803,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "a75ff7de7dacbd15b74af5022dfa2ca1801423a35656ec14d0a6a9b60dcddc9a5b631c9d737b3122558e584b36ee6628a4c0ac8efad4cf5b9c44e65f269be782",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0023",
+    "title": "ΔP-0023 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.927,
+    "delta_Ce": 0.986,
+    "lambda": 0.892,
+    "S_calc": 1.025,
+    "Ir": 0.944,
+    "Pai": 0.98,
+    "proof": {
+      "sha512i": "fe7d7f14f26df9a02f8754177b459397fd9a51765203215c89c8f9e90528a520db9671f42f0f9a605b12fcbed0da53854b5bda20cbdce02ce0ee455464c99f1e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0024",
+    "title": "ΔP-0024 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.814,
+    "delta_Ce": 0.931,
+    "lambda": 0.895,
+    "S_calc": 0.847,
+    "Ir": 0.815,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "3f24b8b75f9051b62251a9fe571c8c269cf89dda839ac3bc76bf66c15195091af972421c88fd156c3f2cc7445e6b904a8fe2d7e2d9e3e57209040bb9ae7ffc57",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0025",
+    "title": "ΔP-0025 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.949,
+    "delta_Ce": 0.83,
+    "lambda": 0.86,
+    "S_calc": 0.916,
+    "Ir": 0.805,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "cc7b41399d60330e583b1816fca7cc6beb88500e833890878d9c79ce7dca2340c9e419f04f53aa4e6bfa4e4b67ba8bf3d116aa448b1adb674dfedd0909f569e0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0026",
+    "title": "ΔP-0026 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.853,
+    "delta_Ce": 0.855,
+    "lambda": 0.855,
+    "S_calc": 0.853,
+    "Ir": 0.686,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "73a6428667033a99bdd57eece6a5c7cfcf1162355418b17117438d1a9e0cfbd1190e54aae2bdf437098eeb9a4e47d9644c005adaab8ad119dcb3ff675c643a11",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0027",
+    "title": "ΔP-0027 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.913,
+    "delta_Ce": 0.89,
+    "lambda": 0.886,
+    "S_calc": 0.917,
+    "Ir": 0.86,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "47fe34ddda3726f81b1c38a8350416a0e533d937d1f67735feea4894635cdae760b18a287943db0b46ce04ebae273c81d1e2450f71085c547917cd92f998f581",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0028",
+    "title": "ΔP-0028 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.814,
+    "delta_Ce": 0.944,
+    "lambda": 0.881,
+    "S_calc": 0.872,
+    "Ir": 0.728,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "49d87f727132fcbc18d666b68ed48d245dce4078cc80b6faf39ffad75217e9c2cb5b80e43de33e64554a94dbc1b29c01dadccbe8ff8a38c5419602481869c42e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0029",
+    "title": "ΔP-0029 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.847,
+    "delta_Ce": 0.864,
+    "lambda": 0.895,
+    "S_calc": 0.818,
+    "Ir": 0.787,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "a53ddfe6f12a046c4425fcdd80bec9bcb759c99b1eb31305f0c64318fd0fd1329f11830c8ebbe61e87572d9a558070b359029a3c5a6400dbefad376f78f8b3ca",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0030",
+    "title": "ΔP-0030 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.827,
+    "delta_Ce": 0.958,
+    "lambda": 0.897,
+    "S_calc": 0.883,
+    "Ir": 0.72,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "8b4910190ed3b25ae7593e105991b4529c35d8188b5027723ccbbc62e447d4650f76cb4ea2fb193a0019222211df2979f96b5f0bd4894dcb65610e3c38c9ad61",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0031",
+    "title": "ΔP-0031 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.917,
+    "delta_Ce": 0.975,
+    "lambda": 0.829,
+    "S_calc": 1.078,
+    "Ir": 0.983,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "45dd24c4ad37b03112a27cb04e1d07c242dab51748cdc47e04b9fc262e38b1e142ebce11c606db5872eacdf436e919daa6ebcfb84db6b0a10838301347dfc674",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0032",
+    "title": "ΔP-0032 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.884,
+    "delta_Ce": 0.828,
+    "lambda": 0.839,
+    "S_calc": 0.872,
+    "Ir": 0.808,
+    "Pai": 1.0,
+    "proof": {
+      "sha512i": "9c41be39ae8600f246afa4f21895a1a9da9f1d0cb6b281ee3e141187e295a3b7fc95474f87eeb9ddaa2c10aca81a75f10478f3c5ebf6b9dfc7c18e0ac6cdc11a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0033",
+    "title": "ΔP-0033 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.839,
+    "delta_Ce": 0.881,
+    "lambda": 0.861,
+    "S_calc": 0.858,
+    "Ir": 0.744,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "39ce0951235f35bea27122d68fc4cac06d4d9a43e0df33c7f3404d289eea780fc3304bafb1ad671f15e582f085f670e5bffc59b73708c5e39d3ceb70795ea92c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0034",
+    "title": "ΔP-0034 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.905,
+    "delta_Ce": 0.928,
+    "lambda": 0.811,
+    "S_calc": 1.036,
+    "Ir": 0.943,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "f89fd946ade35b014d663c3d91df8ba4856a3e97889decbfd55ca5c804d3281bb315ef3d19634f4125c83b2c5167719e1980e2160a5fd3f82bc4c71184b82383",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0035",
+    "title": "ΔP-0035 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.904,
+    "delta_Ce": 0.952,
+    "lambda": 0.831,
+    "S_calc": 1.036,
+    "Ir": 0.984,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "2af2a36e1b8451472691884a1103cc9d3bd028c2fd86d3dada40738fe6459b437b162978e16ba65556dbeec5324f5c262e889a8de23ab838a066bbf217825f8f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0036",
+    "title": "ΔP-0036 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.825,
+    "delta_Ce": 0.92,
+    "lambda": 0.793,
+    "S_calc": 0.957,
+    "Ir": 0.932,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "f5c259418431d8fd92ff47475b097ebd467acde222a2b1b73419bc3f4b094bd7d0f96dba71a507327e2d3d7600ea731411e63073c23078fe340c3c683edcb012",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0037",
+    "title": "ΔP-0037 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.923,
+    "delta_Ce": 0.928,
+    "lambda": 0.832,
+    "S_calc": 1.03,
+    "Ir": 0.888,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "b3023afa536d4bd4ac94e8a6a0f48ad28af0c4ad91abc32dc014036f4b0c33e30c6f21a549ae8cd53e8c31e07576cfa7e63943a80a1cd1b674a5e06e2dd326a5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0038",
+    "title": "ΔP-0038 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.913,
+    "delta_Ce": 0.884,
+    "lambda": 0.757,
+    "S_calc": 1.066,
+    "Ir": 0.917,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "44193539868967232ed04ba6adaa593c7dfb72e9693d6313755918ccbfcece9cc4b6a14c92a44af70cc83b9cbe6bc081c31ab185413f707f83f6719340b84817",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0039",
+    "title": "ΔP-0039 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.899,
+    "delta_Ce": 0.838,
+    "lambda": 0.772,
+    "S_calc": 0.976,
+    "Ir": 0.931,
+    "Pai": 0.989,
+    "proof": {
+      "sha512i": "0e9ab8a9a40ac1f72fb174f2d427615bac519be867d7e8fd5c0a2241b988555f5883cd6867b68a590f3800643fe1525b18cb9f84f4f01892e95f805132bd39e4",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0040",
+    "title": "ΔP-0040 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.829,
+    "delta_Ce": 0.973,
+    "lambda": 0.795,
+    "S_calc": 1.015,
+    "Ir": 1.013,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "e57b039ca53b5fb9521f00c96fb2c85b1fb312196f673c5660933b7fd3a3fff7cd4793b846ee46107ed0c251fd48d7741f5defe46819a9a1c3d98bfaa9e7e210",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0041",
+    "title": "ΔP-0041 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.981,
+    "delta_Ce": 0.942,
+    "lambda": 0.896,
+    "S_calc": 1.031,
+    "Ir": 1.01,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "94946d5cdc43964add16a31f87ea17346d6d0ada6c1957a88207f83c90531c0c7c40de217c3327abd7c69b675a22e12d87a4c1cdfc2df3ea18ca0325c2b579c7",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0042",
+    "title": "ΔP-0042 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.871,
+    "delta_Ce": 0.846,
+    "lambda": 0.836,
+    "S_calc": 0.881,
+    "Ir": 0.71,
+    "Pai": 0.979,
+    "proof": {
+      "sha512i": "69d9fdc3e175c028f910a8d5a4c714ee152039412e421ba1912ef04978ed6bd1afbbc3cadb54c8d6f502546c7ba0a04480fc1ac7303a97fd53ebe0828cfeb98b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0043",
+    "title": "ΔP-0043 — Loi évolutionnaire",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence évolutionnaire dépasse le bruit entropique.",
+    "domain": "évolutionnaire",
+    "beta": 0.912,
+    "delta_Ce": 0.967,
+    "lambda": 0.813,
+    "S_calc": 1.085,
+    "Ir": 0.995,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "f858f545842b9391116dda5bb1a79e6cf004ab329ae75509980d558b1287c770d07392b8cf943f4734416ce31118bc89573c64e0b2ca61ad3770cfa4979916ba",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0044",
+    "title": "ΔP-0044 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.882,
+    "delta_Ce": 0.903,
+    "lambda": 0.868,
+    "S_calc": 0.918,
+    "Ir": 0.793,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "eef2311a15de63e0e3afda0b1f6d6a1f20e248131c5a7efc06e2eaaf9f0b9ca7de910fe1aaf01d7e4d122c270118bd0c7405436e7dd9ce766c4e17ebdb949206",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0045",
+    "title": "ΔP-0045 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.979,
+    "delta_Ce": 0.965,
+    "lambda": 0.78,
+    "S_calc": 1.211,
+    "Ir": 1.08,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "81a0649750f63f529bb798540ad86f334c8143a27fa4b0c6dc57cc7a33cfb0a7df80657df083591b0be9430006a7e18137209b5e1644ef7ce53eeb124a7ca3ed",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0046",
+    "title": "ΔP-0046 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.913,
+    "delta_Ce": 0.824,
+    "lambda": 0.758,
+    "S_calc": 0.992,
+    "Ir": 0.927,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "be1b1d0587d458f87ded2f409d6d93a68ad69db0794db69ddfa2c023c1232bd61d9ee44d3d7781ae31fc35d27d0d5a3e4caeb53574e39d1574e5e778284eb9ac",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0047",
+    "title": "ΔP-0047 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.827,
+    "delta_Ce": 0.966,
+    "lambda": 0.853,
+    "S_calc": 0.937,
+    "Ir": 0.846,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "04b24e77e3764fb3275c21cd71a7049649401af75651dfddab155933d4473e0520e7e5df09b45506a60bfe359d87483eeafe4725075c068602354c62fa44dd64",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0048",
+    "title": "ΔP-0048 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.911,
+    "delta_Ce": 0.888,
+    "lambda": 0.832,
+    "S_calc": 0.972,
+    "Ir": 0.922,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "1fecb67bb05497cbe8058ea7b83cf7b68264fafe1296ede734b0429bc43019ce301c95592153609b0bcbc4170bd74a02f9bb95a391e892d8e6a86897b465b087",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0049",
+    "title": "ΔP-0049 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.959,
+    "delta_Ce": 0.967,
+    "lambda": 0.831,
+    "S_calc": 1.116,
+    "Ir": 1.03,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "4cffccead411991e782969e05710e215543d170f8845de296858c57ff5a09de6c40110fc8d5374d55f723525e722ae837e9723e33a90f5d5ca4e50c0a41630ea",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0050",
+    "title": "ΔP-0050 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.825,
+    "delta_Ce": 0.92,
+    "lambda": 0.829,
+    "S_calc": 0.916,
+    "Ir": 0.893,
+    "Pai": 0.981,
+    "proof": {
+      "sha512i": "7a834233e92b0beb7dc4f674732f616185e93a01546640507ee9231edadb0b7fba8818195710da8754d443c479e6f4a3942fb45382dfae3927c45b8a4b1fa61b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0051",
+    "title": "ΔP-0051 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.847,
+    "delta_Ce": 0.91,
+    "lambda": 0.839,
+    "S_calc": 0.919,
+    "Ir": 0.747,
+    "Pai": 0.979,
+    "proof": {
+      "sha512i": "e4eccfd9926e5076a53e31180dce75a87e323ea1dc26bcbd00e913978f2907b533ba757eda72ecca1c7e6abc0bcf558f7097b0a80405c071d2179ad66f774eed",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0052",
+    "title": "ΔP-0052 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.873,
+    "delta_Ce": 0.879,
+    "lambda": 0.861,
+    "S_calc": 0.891,
+    "Ir": 0.77,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "86a6f7a84390349c7322e525a8a778cf8b9363f2530d58b98f06b37a43add01566a669c26772c93d03b37082785e7784eca8b514054e377f1a93e00b01115765",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0053",
+    "title": "ΔP-0053 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.837,
+    "delta_Ce": 0.926,
+    "lambda": 0.789,
+    "S_calc": 0.982,
+    "Ir": 0.859,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "4fbd363ce33da0378ddf987a7beda88dc8c17aa67bff76f496d9ffee40f830bb1325f5078fe9cf1ead8b2bf600c9f253588c9765d18c2072486c80bd1882770a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0054",
+    "title": "ΔP-0054 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.822,
+    "delta_Ce": 0.943,
+    "lambda": 0.834,
+    "S_calc": 0.929,
+    "Ir": 0.919,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "0e652b0ea49bf1747407430e99b834be64390c7a79fe466adb6e3fe6ae92d402c5bd9f7cf940fcd738bebd439a91195e5e2a58b35837aa15f8dbea39ce5fb79d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0055",
+    "title": "ΔP-0055 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.909,
+    "delta_Ce": 0.911,
+    "lambda": 0.889,
+    "S_calc": 0.931,
+    "Ir": 0.759,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "2beeca219e476b25e491e631b4880cff3f73a1a00c6f8242e5c73fc7a17159f56fc5d0c28c972a3b4940fc392c905a099e54b24d4dead0a1f2c4a070bbd7bee6",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0056",
+    "title": "ΔP-0056 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.837,
+    "delta_Ce": 0.858,
+    "lambda": 0.834,
+    "S_calc": 0.861,
+    "Ir": 0.797,
+    "Pai": 0.989,
+    "proof": {
+      "sha512i": "6ce5aea3dcd1e4f4d3de51e46a63f3122bd9e2843ac5a343050506d6caf68ecf61fc0a22f19896afdf5885bec4d8f204a6ac8da2f962430c3f5d01503077da6f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0057",
+    "title": "ΔP-0057 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.883,
+    "delta_Ce": 0.884,
+    "lambda": 0.753,
+    "S_calc": 1.037,
+    "Ir": 0.978,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "8d86ae2f43860fd045bd528270fb3f2ceea2509a1a9656e1389d763776ad122429a81da37f9d18601d8d76ff5b461bcd592a881fb47a95182da8f5574c5bd3a4",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0058",
+    "title": "ΔP-0058 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.938,
+    "delta_Ce": 0.986,
+    "lambda": 0.854,
+    "S_calc": 1.083,
+    "Ir": 1.07,
+    "Pai": 0.986,
+    "proof": {
+      "sha512i": "d4e6fa1199ff262fcb1aec0121363c169b58debe654b7342df1c4d415153d890dd8cf30ec69875aa3d9cf8dbbc237be0bbdd56939ec295da24e4df018780f8d3",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0059",
+    "title": "ΔP-0059 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.849,
+    "delta_Ce": 0.856,
+    "lambda": 0.816,
+    "S_calc": 0.891,
+    "Ir": 0.781,
+    "Pai": 0.986,
+    "proof": {
+      "sha512i": "107e7bb1e18fb5d00f80d6236fa072bc2b06d9b8172c8c7f47aa2897c1e16cb4e35a2dca1cdc7686993f05afbedcb6ae06f4cd6bc0cbcb6e7008658ae41ab8b2",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0060",
+    "title": "ΔP-0060 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.863,
+    "delta_Ce": 0.954,
+    "lambda": 0.859,
+    "S_calc": 0.958,
+    "Ir": 0.945,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "16c8db27648500a95f1385c259be3a36af32a5b620d5e9bdf6f2daa09dbd86bdf239c88b72da1a5d794b8b7a36e6596a75151f5d621ca9a5b0077146ea1988ec",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0061",
+    "title": "ΔP-0061 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.853,
+    "delta_Ce": 0.878,
+    "lambda": 0.86,
+    "S_calc": 0.871,
+    "Ir": 0.755,
+    "Pai": 0.976,
+    "proof": {
+      "sha512i": "f25c0c9176b98d7e54a7638d37bd3a7fa4269d4fc7629bd6e8b11298679549ff377e0a5783d92b3737f6367acdbc83508f9aa2fd852b2d40fcf7dca9914d0a88",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0062",
+    "title": "ΔP-0062 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.848,
+    "delta_Ce": 0.974,
+    "lambda": 0.872,
+    "S_calc": 0.947,
+    "Ir": 0.856,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "fcc15714a4d3f5aa628606bd8220e72af496b2b66a42ae6622bc84619855cce7409e97c071d5b26a707c71f36f989f7c7dd0a78a8f40d986d16151151b751016",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0063",
+    "title": "ΔP-0063 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.984,
+    "delta_Ce": 0.942,
+    "lambda": 0.777,
+    "S_calc": 1.193,
+    "Ir": 1.184,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "0a702c278ba06fb85085545a4a723d240e835ef49b29ca24d6e9490ae3e5770df6fb59e4eb77dd40c7457b4a84a1240a360a69af8803604c4624a4b805778b0f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0064",
+    "title": "ΔP-0064 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.989,
+    "delta_Ce": 0.902,
+    "lambda": 0.805,
+    "S_calc": 1.108,
+    "Ir": 1.009,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "86c2df626d7cbe4d605f72e55f45179ff12a2b3d97c2a14884180426dcbcdc7cfaa1bb0a56cc7446c758d2bd17c002c2e9db4e18f3e910473404a59291e3fbc7",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0065",
+    "title": "ΔP-0065 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.934,
+    "delta_Ce": 0.866,
+    "lambda": 0.829,
+    "S_calc": 0.976,
+    "Ir": 0.816,
+    "Pai": 0.978,
+    "proof": {
+      "sha512i": "152f4b9e782515e7c18e347f984e3bcbb49f14cd9aafa24539a7b9f56956a3c85852cfb2b99e845f55cf9cd3b8840ae3da4a9ec9324cb159ad46e4725f474882",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0066",
+    "title": "ΔP-0066 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.938,
+    "delta_Ce": 0.976,
+    "lambda": 0.881,
+    "S_calc": 1.039,
+    "Ir": 0.886,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "726a5c2edfb8a48f0bca0293fdc5e283bed1f4cf0fcdb43754ecb363f40dd4d52fd7dd473c587e4eba68a33bc369427ba9c065ba9ba80c355158bebadb1ba762",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0067",
+    "title": "ΔP-0067 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.906,
+    "delta_Ce": 0.891,
+    "lambda": 0.788,
+    "S_calc": 1.024,
+    "Ir": 0.999,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "aeb7b51cb4acea07c2e4ed433dbe1d1e046c66290ee45ddad33107550d49454ce4ad55325e5e77bbc67b0ed876c9799232af130c45c776c0f9d9612b192bbc31",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0068",
+    "title": "ΔP-0068 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.903,
+    "delta_Ce": 0.846,
+    "lambda": 0.802,
+    "S_calc": 0.953,
+    "Ir": 0.801,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "43d34311ce287f4e9d05b58ba30f5d69277ec34437a906eb18907da40edcf57d68718eb85c7b4d1bcc824d183e8f435bbea11405bfd947cda659b947302294bf",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0069",
+    "title": "ΔP-0069 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.854,
+    "delta_Ce": 0.944,
+    "lambda": 0.819,
+    "S_calc": 0.984,
+    "Ir": 0.836,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "7cc0684cb8fb74e4ca76fa58c13adf81d4505a32ac6a0224f6bb57329d2519dfd1960449f4049382de2b3c52e9336e853c02ccb0e9c9df6392f8cceae8ea5f47",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0070",
+    "title": "ΔP-0070 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.925,
+    "delta_Ce": 0.893,
+    "lambda": 0.822,
+    "S_calc": 1.005,
+    "Ir": 0.993,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "de7f1abe6cbe6c15bdb35d25decf0c8f2136a912963392e8188957e8308c5910a81a000a2d8b9cd25b75cdc498dc4738b5110f614d04a5d215675be5520e90d1",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0071",
+    "title": "ΔP-0071 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.939,
+    "delta_Ce": 0.846,
+    "lambda": 0.78,
+    "S_calc": 1.018,
+    "Ir": 0.889,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "f70b2c547a49b5d0cf66791394fe047128c1f8a894840e9f72684876de55b385cde4482a965e8f69b5875b77982bc928ce170656c7ec673275a8e1ddcaf2c039",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0072",
+    "title": "ΔP-0072 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.819,
+    "delta_Ce": 0.864,
+    "lambda": 0.79,
+    "S_calc": 0.896,
+    "Ir": 0.875,
+    "Pai": 0.986,
+    "proof": {
+      "sha512i": "5e307c184a70fc4ba3f856ae5ffd7dfd62b0f400c212bef20e91398dffc26f7601b376267d44891fd1a4a14f747ad8547f137b4d0b0f94f24825c619e8d51cf0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0073",
+    "title": "ΔP-0073 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.907,
+    "delta_Ce": 0.9,
+    "lambda": 0.757,
+    "S_calc": 1.078,
+    "Ir": 0.97,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "05cfaded37b3dc02dcd95855d3ad0bdf564253b0e7c71e61c657169b8c7744d7eea1b9bd6c7163381020f7491c402e19c2df389f3304d44fc02c43fedf473fc7",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0074",
+    "title": "ΔP-0074 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.97,
+    "delta_Ce": 0.958,
+    "lambda": 0.893,
+    "S_calc": 1.041,
+    "Ir": 0.928,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "eef7d33578cfcad547b238db3e5fc81300dc76cec0bb4e61d61827bec5192b45eabcf4e391bf0c914cbf7ba1d3f47a7dffb4b57b957754c3a5528dc80f4978ab",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0075",
+    "title": "ΔP-0075 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.985,
+    "delta_Ce": 0.913,
+    "lambda": 0.786,
+    "S_calc": 1.144,
+    "Ir": 1.053,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "5a617a4101c4b6701989c3493a035433a7a0122a8f528cc2e0e176757ef375fc0ce3e74d5c1bbd0350f1d875d711a4b680a7aee71c5198c29c547956935ed6c8",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0076",
+    "title": "ΔP-0076 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.824,
+    "delta_Ce": 0.963,
+    "lambda": 0.855,
+    "S_calc": 0.928,
+    "Ir": 0.78,
+    "Pai": 0.98,
+    "proof": {
+      "sha512i": "bcc7e1503bb07a6ebb573425e701d54123ee08ec42269f459dedee620c3e22f8c71a3546cf3c5bc9ca7537306bcbfb04e068f621df944cbcda6445a20ce2cd38",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0077",
+    "title": "ΔP-0077 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.902,
+    "delta_Ce": 0.915,
+    "lambda": 0.76,
+    "S_calc": 1.086,
+    "Ir": 0.977,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "81889d98ad8781c00f820a6229ef572777a1a2df86d0613158f840f4e0ae388f93f34ed2fb308ef780191a26efbb68b99430ac99c5c22300b933e0c384f0f2d3",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0078",
+    "title": "ΔP-0078 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.856,
+    "delta_Ce": 0.983,
+    "lambda": 0.893,
+    "S_calc": 0.942,
+    "Ir": 0.813,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "d4eae49e30208a6ede61887516b32850324293390dd6fb805efa99bac93f631b347bec299d4b7b119661e6b081961625a8beb3f5683a6d2d2a0d1ea93468d3bc",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0079",
+    "title": "ΔP-0079 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.839,
+    "delta_Ce": 0.881,
+    "lambda": 0.879,
+    "S_calc": 0.841,
+    "Ir": 0.79,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "c2f5c55aac76d972b041eb32559b705e368fcfa28910936b89fa949c5b991355106b6d1f0e872d43246dfdacc4be21ddfd5237120027160c1c523746af477904",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0080",
+    "title": "ΔP-0080 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.923,
+    "delta_Ce": 0.959,
+    "lambda": 0.876,
+    "S_calc": 1.01,
+    "Ir": 0.857,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "a823794afb888772e3f0acff008b350798f65ce91cd69c8a0260c8d60b857dd14ede1618c863d2f3ba15018d4b22bb5ac7b623f5ac388d443e59ded4b9dc5442",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0081",
+    "title": "ΔP-0081 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.901,
+    "delta_Ce": 0.951,
+    "lambda": 0.811,
+    "S_calc": 1.057,
+    "Ir": 1.019,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "d4a0883d22b7bd7127b3f9cccfbcbc48716355f1387c52f616091c0cac716b1b1c66b263ff78bfa106b2edb5cfa769723f9bb370866010b12b10a70617aed456",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0082",
+    "title": "ΔP-0082 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.873,
+    "delta_Ce": 0.89,
+    "lambda": 0.9,
+    "S_calc": 0.863,
+    "Ir": 0.757,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "f56991a46d029de56b39b3fc0cf9b2a08ce5262a638668c589ddae0463d93f01e0e16519bec90102ce49e70b84693e52bc7538d86aeec367c1b287f7bffb03ac",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0083",
+    "title": "ΔP-0083 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.942,
+    "delta_Ce": 0.843,
+    "lambda": 0.787,
+    "S_calc": 1.009,
+    "Ir": 0.928,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "7c2ae4b51d247490847eb8001b8de997eef590295d27eed7a99f235827eb437775eef0bd69d6cd90f8ab3ece0c608f427b4898e8b0f7a388917c668f05dd6667",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0084",
+    "title": "ΔP-0084 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.826,
+    "delta_Ce": 0.884,
+    "lambda": 0.83,
+    "S_calc": 0.88,
+    "Ir": 0.749,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "d65e426792ee9abd8e9486af2d3b0a7534020eaa1f4318f93ce5855d5f8f034d387f747ea0129bc17cc3ad2b750f646b870ebfc5a0685f84b80735aeec4ae131",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0085",
+    "title": "ΔP-0085 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.821,
+    "delta_Ce": 0.925,
+    "lambda": 0.884,
+    "S_calc": 0.859,
+    "Ir": 0.71,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "3af543828460457ec69d9c33c717347152c0e04a65f62cdc65ba53123de1a520ceb6cb511edf7831df58bebbe85138792cdf4a0a67233949d73c02524188fb2f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0086",
+    "title": "ΔP-0086 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.82,
+    "delta_Ce": 0.901,
+    "lambda": 0.824,
+    "S_calc": 0.897,
+    "Ir": 0.862,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "72c579ab2338e51095ab556505966ade02d635a3deecf5afec3da210aaf91e2a55c788fde877430cf31636c93d191daa60cf6cf4484f85d4731e4a647cfc47dd",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0087",
+    "title": "ΔP-0087 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.859,
+    "delta_Ce": 0.9,
+    "lambda": 0.873,
+    "S_calc": 0.886,
+    "Ir": 0.868,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "ab973017116a8a2be1b22e893d464d1f7e70360994607eda70a8615833963d01906a90a7b441bd469c2ecfbd65789c365ab38650c0d6f82404fb2af9ae35aa2d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0088",
+    "title": "ΔP-0088 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.858,
+    "delta_Ce": 0.924,
+    "lambda": 0.787,
+    "S_calc": 1.007,
+    "Ir": 0.833,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "1af1290c7ee9dba9a15dc65673a8fee4379982830babf61ec9da17817a95561a75e3c87ccf17c4f9ee4f3e43667f1a99a805d8b00220f91b55a211d866caa952",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0089",
+    "title": "ΔP-0089 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.927,
+    "delta_Ce": 0.908,
+    "lambda": 0.856,
+    "S_calc": 0.983,
+    "Ir": 0.976,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "0561d803f89a8d63df5b79c664e3fd969494b46f926603328ad7ed04b30e5b2b5841887f97fac635b448d3ea3afd872beb665f0e87aee1e9b04094a2f8dc748d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0090",
+    "title": "ΔP-0090 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.863,
+    "delta_Ce": 0.834,
+    "lambda": 0.765,
+    "S_calc": 0.941,
+    "Ir": 0.762,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "537825d58b391daa02a2cbf51f5c30d5e12a22ac7cdbfd57e965352e07df18905771e5c4ffd3102bc5ca9dafc47515634092ddf238a673e1b2476d21c0b3fd42",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0091",
+    "title": "ΔP-0091 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.928,
+    "delta_Ce": 0.937,
+    "lambda": 0.845,
+    "S_calc": 1.029,
+    "Ir": 0.908,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "b269a96252d5068a3814f5cd5fcf8821d2e1c4e5047485cfefa2613c92ed8b484322cdcae3299f26e72bc85ff9df5f2e29775227163b98d56dfad55a7363bf1a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0092",
+    "title": "ΔP-0092 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.822,
+    "delta_Ce": 0.904,
+    "lambda": 0.87,
+    "S_calc": 0.854,
+    "Ir": 0.73,
+    "Pai": 0.98,
+    "proof": {
+      "sha512i": "b71356af6036e2905460120efc63b57e2c7b6d5f6ae441cb6d25f074aac6b5210cabafd689a7a8ffae3f43b4efb4f759b03fe769a334d3865d24a0fec7b737bb",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0093",
+    "title": "ΔP-0093 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.927,
+    "delta_Ce": 0.845,
+    "lambda": 0.841,
+    "S_calc": 0.931,
+    "Ir": 0.748,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "1260509571ec0af643fd71001c86190cdfdbe8d59e245f550ef42f0f0a7697b800bfc8919dc6d48abdebeb4756b00604e6f2605dbd7253cf0df0a1ad2cdf6ddf",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0094",
+    "title": "ΔP-0094 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.967,
+    "delta_Ce": 0.887,
+    "lambda": 0.855,
+    "S_calc": 1.003,
+    "Ir": 0.842,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "19a92e22af486a4c8e8e047fae171042f1024949855d35ffebac88ea63fd2245d097329b7e247e241b428e6e8e224e4b9c4ecfccaf2e3b5e7892d63faa5674fe",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0095",
+    "title": "ΔP-0095 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.892,
+    "delta_Ce": 0.936,
+    "lambda": 0.794,
+    "S_calc": 1.052,
+    "Ir": 0.938,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "2512a5091969eb3f3ad900ff7197e9b6da6e91cb1add7734d843524351ff72a0294e7ae9e63d5cba8630b2b0f217b07c14386679f02053cfeb676c54b37df746",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0096",
+    "title": "ΔP-0096 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.882,
+    "delta_Ce": 0.904,
+    "lambda": 0.769,
+    "S_calc": 1.037,
+    "Ir": 1.024,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "c1c964d302d8022527f41e6172686234aa716b41621ae512c0a19ff19c3fd647b28d9b061cdc4d4eb02e263ff459775ea73214e6036e25e0d3a580c95b7a1723",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0097",
+    "title": "ΔP-0097 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.978,
+    "delta_Ce": 0.861,
+    "lambda": 0.876,
+    "S_calc": 0.961,
+    "Ir": 0.925,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "222da0e347cb3ff5d27f55bb9009d688f0abaec1f74e96c903388968b50de49928d825b725e282032d1454034f11ed08e76b0b4d21359da8e1bc756f6d5ccc2b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0098",
+    "title": "ΔP-0098 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.932,
+    "delta_Ce": 0.985,
+    "lambda": 0.829,
+    "S_calc": 1.107,
+    "Ir": 1.084,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "e85c5d36e1ee91616cc2e5583cdaf4024c3b5f520d19b0bc13048b50cbd3d40bd1267db64ed704df70f337bbed9df684c11caff932f526f3137d1a4ea127fa8c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0099",
+    "title": "ΔP-0099 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.873,
+    "delta_Ce": 0.893,
+    "lambda": 0.859,
+    "S_calc": 0.908,
+    "Ir": 0.875,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "d0993fd1237025c77ece9fb39fffbb68cd4913e5001650961a5ddbcee3390c8de201d74c0e9ee589978e9f9695d5e98857bda3718d184d4f9578728afd6d0571",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0100",
+    "title": "ΔP-0100 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.942,
+    "delta_Ce": 0.978,
+    "lambda": 0.753,
+    "S_calc": 1.223,
+    "Ir": 1.075,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "bd4ef2086c385eca6b93750ec2b0665b9f5a8c85451ec6c1c58959d85933c25e339364ab3c6eae98a7b4bc3bf83b5c75c1167de06a1708400679a62334cb1d9a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0101",
+    "title": "ΔP-0101 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.927,
+    "delta_Ce": 0.918,
+    "lambda": 0.801,
+    "S_calc": 1.062,
+    "Ir": 0.928,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "eb69a607668f2364c75ee04c4e38ffa91327894c76d1b00665fd30ee1823ec1547ddf65f0e7b832499b71d15fe5ad0755015848a9ea63a6ad3191ac6153ff54f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0102",
+    "title": "ΔP-0102 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.947,
+    "delta_Ce": 0.86,
+    "lambda": 0.812,
+    "S_calc": 1.003,
+    "Ir": 0.829,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "301be44e4a459a1ccef94c2643acd6e4dbde1de218e92220283d5fe2cd50e179593631cb2c785b6cb7e1fdf480059c9ad12bbac1e8944b4df5c5e63dd3169732",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0103",
+    "title": "ΔP-0103 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.984,
+    "delta_Ce": 0.855,
+    "lambda": 0.829,
+    "S_calc": 1.015,
+    "Ir": 0.917,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "02c26daa8fad7b50662095cadc19fd85d2c17f17056b7e577f23553b21fde45a2e47c86d06b2c1b26c01c133bd5811a8796b986e331c0ba310fb736956a4025e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0104",
+    "title": "ΔP-0104 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.879,
+    "delta_Ce": 0.885,
+    "lambda": 0.775,
+    "S_calc": 1.004,
+    "Ir": 0.858,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "6a8140706b064c862b07220848294dabb5f1d1a1a43a7e0adf5bf937da84ca7e6dd6f7014d9277f432b426b36f4672e1bc4ba8c2482a8dbb3aed7dabb70fdbf0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0105",
+    "title": "ΔP-0105 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.849,
+    "delta_Ce": 0.893,
+    "lambda": 0.767,
+    "S_calc": 0.988,
+    "Ir": 0.941,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "b8e3c4d10e300b104180f2600d397aa888d438fcd5caac0aca8628ab65998fcd6673432f8a011f5cd387b1fc570bfa0b3e496c5f5472fa21764ae1da8183b83b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0106",
+    "title": "ΔP-0106 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.987,
+    "delta_Ce": 0.907,
+    "lambda": 0.802,
+    "S_calc": 1.116,
+    "Ir": 1.049,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "425e5f47140006a9106dee355f6e656e55f673e4ecdd3c5f68686e740b0b0c176b194b0e44b82f50507165a7d05efb41781563813323e52d24458b43dedc2051",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0107",
+    "title": "ΔP-0107 — Loi évolutionnaire",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence évolutionnaire dépasse le bruit entropique.",
+    "domain": "évolutionnaire",
+    "beta": 0.813,
+    "delta_Ce": 0.98,
+    "lambda": 0.768,
+    "S_calc": 1.037,
+    "Ir": 0.928,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "db4ab3d97241d5b235d40c3164a0f665e511b2b49118fe98b157d5baca38274aa18135ce840110fb8c555fb414b982e9929a19b52d696f5b4f7ca4ab4eaa100c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0108",
+    "title": "ΔP-0108 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.915,
+    "delta_Ce": 0.864,
+    "lambda": 0.821,
+    "S_calc": 0.963,
+    "Ir": 0.953,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "6b10e6184cc35e7e9f3a8d8f84e02786a311c3112aa6eb8738fb0347de5d51cd21020be3cc26bd58c6d475a17917a268bbc325059784c3a0120461de92c2148a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0109",
+    "title": "ΔP-0109 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.975,
+    "delta_Ce": 0.945,
+    "lambda": 0.867,
+    "S_calc": 1.063,
+    "Ir": 0.993,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "8858adfcdfce0eafe5e85ff10d36905ff17fc846931d66aef1db1bc3cd39c7593f3e88c261d6fc5a4ab49a1beaac6f28df895e1ff086be12c2d943bd3c838aa8",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0110",
+    "title": "ΔP-0110 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.974,
+    "delta_Ce": 0.891,
+    "lambda": 0.871,
+    "S_calc": 0.996,
+    "Ir": 0.938,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "aedcbcd894f1a06e757ca31fe79937db33f3bad240ead9b91af835b259c1d9b5fd47713085b830c914213fdc33dabfc665d40a2bfbda77cbd5e0cd2a600c9c04",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0111",
+    "title": "ΔP-0111 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.949,
+    "delta_Ce": 0.925,
+    "lambda": 0.791,
+    "S_calc": 1.11,
+    "Ir": 1.093,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "00302ad51b3effa8bfe5cdbf8c0be969bc0cbd71b61e8dd837d49655cba7b75251a9f37df2215324afc2230c15a60f5f9488fb394c0381af7658d5d8a143b526",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0112",
+    "title": "ΔP-0112 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.853,
+    "delta_Ce": 0.94,
+    "lambda": 0.758,
+    "S_calc": 1.058,
+    "Ir": 0.917,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "ba472a38e16132012c570486b504f4a0c989c68a0b49bf85be81c0c0e4d48dc4df2dd0f203ffc2f3fed900c2e7936a0913cf2004f9cec3e0c771232125bf88d5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0113",
+    "title": "ΔP-0113 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.896,
+    "delta_Ce": 0.976,
+    "lambda": 0.832,
+    "S_calc": 1.051,
+    "Ir": 0.926,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "41565e87a31ed9d1a2e62509b428467ae18dbbbba9185b3fd14c7bb296c87cace4923df7ef3e996b1ba8f8e9ff17ca17c20ca1483b276e9f4d4baf052eea992b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0114",
+    "title": "ΔP-0114 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.961,
+    "delta_Ce": 0.909,
+    "lambda": 0.847,
+    "S_calc": 1.031,
+    "Ir": 0.911,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "1f2a5c03705139363ab741b48b522774e5c16c4a788b408964443cf0431ace90e1383bc7f6a3a311c4cfd3358c2abdafffa105e55b8db3c67ab9f1d8bd4d2ff5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0115",
+    "title": "ΔP-0115 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.97,
+    "delta_Ce": 0.936,
+    "lambda": 0.763,
+    "S_calc": 1.19,
+    "Ir": 1.147,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "420ff2b94d159b010a4e2e9e6e4c6f02adf77cec349f7c5566a932e5d74dcf319de6b4fa54a4cb965bd8c33841194189dcdef26f580555770c9efec5fc890421",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0116",
+    "title": "ΔP-0116 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.961,
+    "delta_Ce": 0.915,
+    "lambda": 0.802,
+    "S_calc": 1.096,
+    "Ir": 0.983,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "5ad2b69613ea90019e78d0c6fe7e9d8778dff0374d3b0c81b05e38d72311fe4206d4959232188d67836ccb8bffca288a1d89529cefc1aede680b8ddc1d4c8194",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0117",
+    "title": "ΔP-0117 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.908,
+    "delta_Ce": 0.863,
+    "lambda": 0.836,
+    "S_calc": 0.937,
+    "Ir": 0.857,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "d931f83fe2a314bbfb632565e0f38fbd58baccfe90a9b9355cbd1991d97d7414c547f44d194903997abdcd00083b43339dff5cc48fabcb4736992e59016d5558",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0118",
+    "title": "ΔP-0118 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.887,
+    "delta_Ce": 0.851,
+    "lambda": 0.754,
+    "S_calc": 1.001,
+    "Ir": 0.991,
+    "Pai": 0.975,
+    "proof": {
+      "sha512i": "126ff8b071658002d11406b22f068047a5aa00c0b0a6c1ec982dbb43dfc4423b6a106c7d5195e5ebc466085063a85666538a8166cc3d30876d5d84e5b62e40f7",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0119",
+    "title": "ΔP-0119 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.88,
+    "delta_Ce": 0.871,
+    "lambda": 0.861,
+    "S_calc": 0.89,
+    "Ir": 0.74,
+    "Pai": 0.983,
+    "proof": {
+      "sha512i": "53d997fc40bf97b3583b95f227ffe901e6dded5cb0f401025f8c73c470ba744d5346e53cc27638b4b5199157970349a7bcdfedb6ee50cfcf1d09c94ab0f05a9a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0120",
+    "title": "ΔP-0120 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.848,
+    "delta_Ce": 0.871,
+    "lambda": 0.86,
+    "S_calc": 0.859,
+    "Ir": 0.805,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "d1c78dde118b2f2a2de0bb870a289427f36663805e945b8bc3d48c0a713c38afac9c093aaefe5907355d53f0b33778977e506dd9ce303d88b553886d595d4b1b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0121",
+    "title": "ΔP-0121 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.815,
+    "delta_Ce": 0.923,
+    "lambda": 0.867,
+    "S_calc": 0.868,
+    "Ir": 0.742,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "7d58df6a8362c00c76182f7eac8bb03deb03e6f6a2303b238315406eba85e1a1977e15aedb7213190bc9f5d4c333df4f49c05f7fe812cb3faca8f3ebad36fa58",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0122",
+    "title": "ΔP-0122 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.818,
+    "delta_Ce": 0.888,
+    "lambda": 0.897,
+    "S_calc": 0.81,
+    "Ir": 0.718,
+    "Pai": 0.981,
+    "proof": {
+      "sha512i": "b2032234eabf3a8c02b9ee19037df735be8630974532cd3b42278bcc445317629de5b658c901f8159b0488894c3d65b6099cc56d3e6643bb81bdc90a59583a8a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0123",
+    "title": "ΔP-0123 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.922,
+    "delta_Ce": 0.867,
+    "lambda": 0.886,
+    "S_calc": 0.902,
+    "Ir": 0.828,
+    "Pai": 0.989,
+    "proof": {
+      "sha512i": "8b89a1b59ab4ccc942efe48f439ec9a47a93bee13b558391aa7643e57bceae615bed8f9b70bafce8672a0bf665b441e08e4a01dd951a2a333a225c1754fb94ea",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0124",
+    "title": "ΔP-0124 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.834,
+    "delta_Ce": 0.945,
+    "lambda": 0.8,
+    "S_calc": 0.985,
+    "Ir": 0.918,
+    "Pai": 0.984,
+    "proof": {
+      "sha512i": "6eafa90c10691f51146298931952547bc1010a47db560716acf82f1a16fe898f95d7041db977da5459818839cddf2dbec5216b8f01ce9fa31525e474eb5abf2b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0125",
+    "title": "ΔP-0125 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.818,
+    "delta_Ce": 0.834,
+    "lambda": 0.843,
+    "S_calc": 0.809,
+    "Ir": 0.748,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "b71518e8e103db8a0fbbb9e8b197739783e86b5c0ba507b3a80b0720e75e57ef0245ed2b12bf01a1460f83a26203cee5bbb07f590d52e1bdfd2ef7296ff2d198",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0126",
+    "title": "ΔP-0126 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.899,
+    "delta_Ce": 0.916,
+    "lambda": 0.829,
+    "S_calc": 0.993,
+    "Ir": 0.857,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "ed18a59ab6da80781fa3b9a803e3df72a2bee8bbe3eb5ec0ae1da82e0974e4759a751601394d6bf5045fcc0d2e8e18dbc346402569f385a33b39780b68170726",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0127",
+    "title": "ΔP-0127 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.835,
+    "delta_Ce": 0.844,
+    "lambda": 0.864,
+    "S_calc": 0.816,
+    "Ir": 0.7,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "82e747e11d9a9dea242a85a0bcf6c835290775535b9d034d30b4effe9a0f777ddf625553ad06f3095c814e0eba6806c074219549ab857f8741ff26f9fb8f9fe0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0128",
+    "title": "ΔP-0128 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.837,
+    "delta_Ce": 0.921,
+    "lambda": 0.899,
+    "S_calc": 0.857,
+    "Ir": 0.739,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "c97cd1b7f06672e158b74712710f7b80d3a209c05c94a80bb0ca1c57e5f6766a8a3bb41dd561fe4610224971221dae1dd1c7dcf98bbe58e5809bfbae4b3905bb",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0129",
+    "title": "ΔP-0129 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.921,
+    "delta_Ce": 0.967,
+    "lambda": 0.884,
+    "S_calc": 1.007,
+    "Ir": 0.831,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "8aac9e5659d0d0f38998a47a2cc48b8587f4e57d442dd06d27836222c541a7483d54b6c42af6c7d3122a1da7c0e25d6d630003c56479f3eab819f4e72429751b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0130",
+    "title": "ΔP-0130 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.853,
+    "delta_Ce": 0.971,
+    "lambda": 0.815,
+    "S_calc": 1.016,
+    "Ir": 1.005,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "ac7d83ea006772f3ff221f38edebe444ea6bd4ce150e8851fe83adea056cf2d6360e73c9ca408a9cc3c40c425b52f10a342cee8478a85ff18404cca8cdfd3f4e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0131",
+    "title": "ΔP-0131 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.951,
+    "delta_Ce": 0.884,
+    "lambda": 0.865,
+    "S_calc": 0.972,
+    "Ir": 0.835,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "4c9c30980425d1f3022dbdf33fd6553dfd3aa4184f357c840aa752bee83b52e9f0518ac25b1a0e74eca5f08a61534223d1abf87ad53c2013a559dcfb203757b0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0132",
+    "title": "ΔP-0132 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.939,
+    "delta_Ce": 0.849,
+    "lambda": 0.872,
+    "S_calc": 0.914,
+    "Ir": 0.889,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "2333c85a0582653fd69dcc42eb78612a562385dc533945a5d1021ae40db7ff6e3618e9aa4dbee95504437fbc15ca5f6ac84b8bd8ab1afac6db1075a054f7e581",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0133",
+    "title": "ΔP-0133 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.917,
+    "delta_Ce": 0.87,
+    "lambda": 0.754,
+    "S_calc": 1.058,
+    "Ir": 0.964,
+    "Pai": 0.977,
+    "proof": {
+      "sha512i": "0f157abcdfaace8c22abd8b5b5fda705a6fb760c94d1f78f1b3df3a30267c4e7b914cf2978569e09cdee7ea873a55b0c3f0f9ba444d856427b1a74810482a548",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0134",
+    "title": "ΔP-0134 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.814,
+    "delta_Ce": 0.854,
+    "lambda": 0.848,
+    "S_calc": 0.82,
+    "Ir": 0.702,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "6505e2254eb26fef763d8f390a959a64d6f59808d887845ecea695e6a0ab18c996bdd199a7f1a6640ae3a50d790e383585e0951ce446e75b6d68c9484efa9fac",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0135",
+    "title": "ΔP-0135 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.987,
+    "delta_Ce": 0.873,
+    "lambda": 0.772,
+    "S_calc": 1.116,
+    "Ir": 0.973,
+    "Pai": 0.975,
+    "proof": {
+      "sha512i": "8e00a66619a134f50f52dd4389b577e15a67a5ab0ad71bcef0e2a3093caee384ddde25f991886260ceefec2c1ef93d8aaaf23232d0f2904e28d44a6653b39407",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0136",
+    "title": "ΔP-0136 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.978,
+    "delta_Ce": 0.937,
+    "lambda": 0.767,
+    "S_calc": 1.195,
+    "Ir": 1.175,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "3d1996a10bd2fa54f42aa6fd03dbf969808dc8bdc4d36b203967748bb679249a90d7ad184087d6e36088a41329d23f79a58ac8c9c13c394a0232747c18aa9a0c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0137",
+    "title": "ΔP-0137 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.889,
+    "delta_Ce": 0.906,
+    "lambda": 0.851,
+    "S_calc": 0.946,
+    "Ir": 0.818,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "690aec57314d3606aa3f4ca08740e67fd4e3b1507798ad8e7cf452a463eebd8724f77e63cdb8f44686293e9cf5472eeef5df3b27312949e3f1eb4a4cca9bfc8a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0138",
+    "title": "ΔP-0138 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.826,
+    "delta_Ce": 0.951,
+    "lambda": 0.799,
+    "S_calc": 0.983,
+    "Ir": 0.853,
+    "Pai": 0.982,
+    "proof": {
+      "sha512i": "03ca7bc394968b582afd4b2d5d3978f9c24707efc683b58953bf7ad04fd5dab8cc3281ca79daf62b9e32bc8ff58d965c8464335d7906721e2047cda6c595684d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0139",
+    "title": "ΔP-0139 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.973,
+    "delta_Ce": 0.842,
+    "lambda": 0.787,
+    "S_calc": 1.041,
+    "Ir": 1.038,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "227efb2eb317148c9eb1f592d80f5b951dbd4fb15ee5ba717235cea10a3148c6ef34a7b6ceb9c825aa887f019a9d79bf8a2ec622954bd13dfb7d557835af8471",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0140",
+    "title": "ΔP-0140 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.88,
+    "delta_Ce": 0.978,
+    "lambda": 0.868,
+    "S_calc": 0.992,
+    "Ir": 0.884,
+    "Pai": 0.983,
+    "proof": {
+      "sha512i": "3ec2fa0068123de432891767d4a764c527a5d8f33a4907808d048d0c38841cef22843aeb69970d1339a4de5a026ca1a538952739226c8185a05b8560b7429634",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0141",
+    "title": "ΔP-0141 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.846,
+    "delta_Ce": 0.975,
+    "lambda": 0.822,
+    "S_calc": 1.003,
+    "Ir": 0.994,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "ded229baa7fe2698a8ae112bbfbeacfcb77b7fcb0efb897131b6a5ab65de6bb9396bc3ddf2efee8904ac815403eb4b8ad5faae7d311892f2963320b23e9a68fb",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0142",
+    "title": "ΔP-0142 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.831,
+    "delta_Ce": 0.861,
+    "lambda": 0.844,
+    "S_calc": 0.848,
+    "Ir": 0.818,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "a708d31bfc41e99f5020ee9dca7d41ae55684b0aa9e98339656f88dd2533319c0c34403e22d7a57d4182127dae044e284b45e2b84e41f2b6fc9825f54d4ec626",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0143",
+    "title": "ΔP-0143 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.965,
+    "delta_Ce": 0.938,
+    "lambda": 0.808,
+    "S_calc": 1.12,
+    "Ir": 1.084,
+    "Pai": 1.0,
+    "proof": {
+      "sha512i": "6b7a51db6cf0d4dc9974e0ac98467f1f118289a157fa498d28eb9369f04f9aa553923d80b8294fde7848443b5289f931f8094f8dbe719a78d206a1e29db8d47f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0144",
+    "title": "ΔP-0144 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.829,
+    "delta_Ce": 0.929,
+    "lambda": 0.837,
+    "S_calc": 0.92,
+    "Ir": 0.881,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "e31bea538c7e3ccd2108b38b55bffcc739505705d9b1c3423fae3ab8144a3c3d4f8e5e843aab363cc809267081c6c3eb9a8bcc22a961b8d12e5cb4c7c69b7fd5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0145",
+    "title": "ΔP-0145 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.918,
+    "delta_Ce": 0.977,
+    "lambda": 0.865,
+    "S_calc": 1.037,
+    "Ir": 0.91,
+    "Pai": 0.978,
+    "proof": {
+      "sha512i": "69938907348ccc831da68b810e5f42e6ae9ae9da5752bbd1182047688a0a1f3c985a469caa3458f5993c9ed553e690a0560ffea192410570ea7d60aafbf72d2c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0146",
+    "title": "ΔP-0146 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.872,
+    "delta_Ce": 0.921,
+    "lambda": 0.773,
+    "S_calc": 1.039,
+    "Ir": 0.856,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "a417a9754485a74d59c7da686d86cf9769b2d7c999b894080b9bc33229b296cf2d1ae59f2b343ffd547d943055f74cd2c794c5cf65689e82c3250a3c55980bd4",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0147",
+    "title": "ΔP-0147 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.898,
+    "delta_Ce": 0.91,
+    "lambda": 0.784,
+    "S_calc": 1.042,
+    "Ir": 0.944,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "94ec08e1c0a21b90e0501a9bd45b3c1fbf1846166b34b9fa2611a8048bfb40a215f4c684fe960c540f692be7806be5ff8b9b28eab9e267ed3771addbceed6151",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0148",
+    "title": "ΔP-0148 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.829,
+    "delta_Ce": 0.912,
+    "lambda": 0.809,
+    "S_calc": 0.935,
+    "Ir": 0.791,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "d43ff550630e0894e0f7e95ae3402e3f9c38ae6ec47ba2e39c0e8b0ea3899bb6ed30d901fd5d4831822d89adc54977eb5f9999f8ca1bae449b0669abff21aaf5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0149",
+    "title": "ΔP-0149 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.854,
+    "delta_Ce": 0.906,
+    "lambda": 0.791,
+    "S_calc": 0.978,
+    "Ir": 0.821,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "bce37a2c74515f071b7745489d7654c02a036d3e01faaac5014d432e6223178b94b6ebaca6e07d5e28bbe4c822aab6f21d25658d3d007211f0fec1643a2a47a9",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0150",
+    "title": "ΔP-0150 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.929,
+    "delta_Ce": 0.947,
+    "lambda": 0.836,
+    "S_calc": 1.052,
+    "Ir": 0.943,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "1323977380f3f6cf1e018da333222f00ce9772ecb041ceaa1255afcb4ec76f3ae44946f44e75a8c6b4689f0972bdb5d9cd9c43af304873b2410d29e1e834adf5",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0151",
+    "title": "ΔP-0151 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.987,
+    "delta_Ce": 0.923,
+    "lambda": 0.835,
+    "S_calc": 1.091,
+    "Ir": 1.057,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "9ccbd0e767196ac0f3dad5849b843b2f56f676a9d3300fd1d1add4e676c80bee8a29479bfbf9ff0fbfd7d34a852352abbcaf1ec435a009d13c7186aa7ac844eb",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0152",
+    "title": "ΔP-0152 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.89,
+    "delta_Ce": 0.947,
+    "lambda": 0.755,
+    "S_calc": 1.116,
+    "Ir": 0.992,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "688ef1297d81812a0e343e7fa183e71f4a0848b55a7a6ac661fda90395ce30c2b967579a788a18cedd7bb8f8cfface0171d9eac1d167f7ce42e2d0f34486a2cb",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0153",
+    "title": "ΔP-0153 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.974,
+    "delta_Ce": 0.967,
+    "lambda": 0.803,
+    "S_calc": 1.173,
+    "Ir": 1.075,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "7fc3e03af6033e1aeffb34740e4b02d1e1119c693f120b6e78e426bc3f02c1e11c6e03e572395f87f5104196d773aa7cb95d594c1b117bf95adfa3c88a13929d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0154",
+    "title": "ΔP-0154 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.855,
+    "delta_Ce": 0.98,
+    "lambda": 0.866,
+    "S_calc": 0.968,
+    "Ir": 0.835,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "38cbb013b5c9f70bcd0aa4717d3cc38214bf24a81f3e9b2a49c99b957771776fe7f2ea5337cd500cc540f69ac6d458e78544a4a222992ce71dde6eb31927064b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0155",
+    "title": "ΔP-0155 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.981,
+    "delta_Ce": 0.973,
+    "lambda": 0.899,
+    "S_calc": 1.062,
+    "Ir": 0.98,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "52411ef0c6b1c853bcea60e34a7dafaea4dd02db341afbe7c03f19d53fdb1a425e47ff11e0b70b1c5ff55ba07b78898168e734324126d87053491d4b0a248a83",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0156",
+    "title": "ΔP-0156 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.878,
+    "delta_Ce": 0.821,
+    "lambda": 0.86,
+    "S_calc": 0.838,
+    "Ir": 0.698,
+    "Pai": 0.981,
+    "proof": {
+      "sha512i": "121428bb3b9209cf88f7e7616731c6b537d8e7aa9882af7ef58d5bb6987bbf82f913e8007e6e11111d956ca44e13bcc0ecb8890ef0eb1331547171af6c1a42c9",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0157",
+    "title": "ΔP-0157 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.848,
+    "delta_Ce": 0.9,
+    "lambda": 0.777,
+    "S_calc": 0.982,
+    "Ir": 0.815,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "0170d14002fae36c54c9ef3b4dd18bb1b6367d74de67b1fd090e9827ab9a7aa85c1fc524141780b32dafef395313251e16e55ba4413536357f703aa82e8b870d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0158",
+    "title": "ΔP-0158 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.971,
+    "delta_Ce": 0.944,
+    "lambda": 0.786,
+    "S_calc": 1.166,
+    "Ir": 1.101,
+    "Pai": 0.984,
+    "proof": {
+      "sha512i": "f25068dbf40980391ecc3d5630a467d986914107b15366bcc7d46045d8a4a3b12d6040e8e1410451ccd73e4ed47c6da6db43e8e33cc94d476778043914fc0a60",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0159",
+    "title": "ΔP-0159 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.859,
+    "delta_Ce": 0.898,
+    "lambda": 0.807,
+    "S_calc": 0.956,
+    "Ir": 0.846,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "ccb94cf153c9720ace4774529ad9d82bb46741ead745058689d73c657aad63b05bec4c71f63216995860942e42ac0305c8082a4a7e716041fe709a6781eb4fd8",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0160",
+    "title": "ΔP-0160 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.97,
+    "delta_Ce": 0.836,
+    "lambda": 0.846,
+    "S_calc": 0.959,
+    "Ir": 0.849,
+    "Pai": 0.97,
+    "proof": {
+      "sha512i": "dfa39be6af0ec9071a7b51b571c2fc69634002f3f23bd76c377d5f0591dd446b1760e91e78c7bbe6b360321961e20e0c9050c19868a1eb2a69402fc97e135445",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0161",
+    "title": "ΔP-0161 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.836,
+    "delta_Ce": 0.974,
+    "lambda": 0.806,
+    "S_calc": 1.01,
+    "Ir": 0.841,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "7cf4e889a443bf90926e6d58a0133b515fc2bd9e2815dadc1cba88ee8dca616f2cdc31a03e4a755201cebc17de3ff879b99f8713d659f6243364f545068ab070",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0162",
+    "title": "ΔP-0162 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.924,
+    "delta_Ce": 0.847,
+    "lambda": 0.831,
+    "S_calc": 0.942,
+    "Ir": 0.881,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "35e0cdd4cf0c8ee32402f7c9562ec8511c17d2468febad5958db9b49dd2c35e74970c2602975e23fd6af1af72b033bc2c0ee346ef90e22c2dedb549243dd7813",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0163",
+    "title": "ΔP-0163 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.869,
+    "delta_Ce": 0.853,
+    "lambda": 0.817,
+    "S_calc": 0.907,
+    "Ir": 0.773,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "693817aa87f0103f1b94efc954218fe52c537b7e1064ea2a7d7d90f49bee2878b0526dc985ddd4e715ddbc838f28b66effeaaf9c33de44ee350f7150e76ed804",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0164",
+    "title": "ΔP-0164 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.882,
+    "delta_Ce": 0.935,
+    "lambda": 0.812,
+    "S_calc": 1.016,
+    "Ir": 0.847,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "4202c7f927d3c6a3f95fb31f3de231210149f357286003c3c7333270496a13d552e30a11edc8e008c83ca7fa15619e046c1af1c1a8873dae0e7340f1c156ed89",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0165",
+    "title": "ΔP-0165 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.875,
+    "delta_Ce": 0.942,
+    "lambda": 0.811,
+    "S_calc": 1.016,
+    "Ir": 0.821,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "1e980218ab95b5b6a82f7f0508023c887cc7ba995b1e247c067a06a24b6757db0596d1f1ca38b05e8e67150edc40878400d811eb8fd36b2f45fd9f42748e41ea",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0166",
+    "title": "ΔP-0166 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.837,
+    "delta_Ce": 0.985,
+    "lambda": 0.898,
+    "S_calc": 0.918,
+    "Ir": 0.852,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "79843916b833e748438b5964bdbeadc1c6eb6f102d2e5c6b7c9fd90e939d36b4483991be4274ad4e60d789674bc5c9d2683560a0b23792c13b2780576eeb4a29",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0167",
+    "title": "ΔP-0167 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.888,
+    "delta_Ce": 0.845,
+    "lambda": 0.781,
+    "S_calc": 0.961,
+    "Ir": 0.96,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "d1766800a588ba649fcae4ae6253f773499d38e6bcd6c7126265ffdccc9e7cc97324d32d545b1ec89ee3da5790cb73e63c122da8f2efe12acc37a5a475ebaef1",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0168",
+    "title": "ΔP-0168 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.944,
+    "delta_Ce": 0.917,
+    "lambda": 0.821,
+    "S_calc": 1.054,
+    "Ir": 1.021,
+    "Pai": 0.986,
+    "proof": {
+      "sha512i": "5412956c8ac144476b2e8a8e261ff6ceb3ca2fed80c9c85a9a4569dd50b56e0a9da1fd623a29761309fb986b416a7bfe5226a9943a4bbd4db87e817dfa410301",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0169",
+    "title": "ΔP-0169 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.872,
+    "delta_Ce": 0.953,
+    "lambda": 0.83,
+    "S_calc": 1.001,
+    "Ir": 0.946,
+    "Pai": 0.989,
+    "proof": {
+      "sha512i": "746694947a586902ce085c082b4bea91ed81814722ff092138b9c61cc4c2bc12a3e76abbd08e18fd765eea35dba69df0286286cc617d1fd80556a1ebc9154858",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0170",
+    "title": "ΔP-0170 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.983,
+    "delta_Ce": 0.873,
+    "lambda": 0.795,
+    "S_calc": 1.079,
+    "Ir": 0.923,
+    "Pai": 0.997,
+    "proof": {
+      "sha512i": "657fa2d16b8e5bc9784d78ed3a24105d314d7e8c5c89f196841e8421c800f8bde261f7e1f44703ec280ae63bfdbb9419c0bbb72c59fb3c0e5bcbd57d8dbde8ca",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0171",
+    "title": "ΔP-0171 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.919,
+    "delta_Ce": 0.874,
+    "lambda": 0.815,
+    "S_calc": 0.986,
+    "Ir": 0.872,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "11086e21d71f3074124468383863cc233673ab218eebfb3c46f0bc5f1c39ddbc7ef54ad38f37d646448e3959e1c80478ba57d1e88d4a17f01ab3e0d80528e2e7",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0172",
+    "title": "ΔP-0172 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.848,
+    "delta_Ce": 0.954,
+    "lambda": 0.874,
+    "S_calc": 0.926,
+    "Ir": 0.881,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "f76564146925b009a06a38a4c93d8fe4a8e0713d2dafeeec1c0c9f71efff091760aee821cb4fdb273b37426e4f51ddf6b353237c30157363dcdecd9dea8eb293",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0173",
+    "title": "ΔP-0173 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.938,
+    "delta_Ce": 0.863,
+    "lambda": 0.831,
+    "S_calc": 0.974,
+    "Ir": 0.952,
+    "Pai": 0.991,
+    "proof": {
+      "sha512i": "1decd4b8e3fe2b15c502af5559b1aa367ef198e21ceb90e2445f5fb87a96d060fc34b3edc53d7d508f5ea09b7baffb54140689c5e32047b44a817c4a11da58d8",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0174",
+    "title": "ΔP-0174 — Loi bio-éthique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence bio-éthique dépasse le bruit entropique.",
+    "domain": "bio-éthique",
+    "beta": 0.972,
+    "delta_Ce": 0.899,
+    "lambda": 0.787,
+    "S_calc": 1.11,
+    "Ir": 0.928,
+    "Pai": 0.988,
+    "proof": {
+      "sha512i": "36ba8a96bbe2a46f6799513f021a21af205f0cfd6aef978970cd6bf8a05721d3dc2e0bb5a6ab3d3cea722c4ece8d0384f47fee9b8ee0504dc62caae901e46b41",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0175",
+    "title": "ΔP-0175 — Loi biophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence biophysique dépasse le bruit entropique.",
+    "domain": "biophysique",
+    "beta": 0.867,
+    "delta_Ce": 0.909,
+    "lambda": 0.783,
+    "S_calc": 1.007,
+    "Ir": 0.846,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "00e4b9b36ba26730623cae627af4318088d3d324f5db3afff0123c43f02ab921b6fb11c1c2936e99315d2cab007b98a8a0a385b43f1e6c9a14c7ab5547d81faa",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0176",
+    "title": "ΔP-0176 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.875,
+    "delta_Ce": 0.863,
+    "lambda": 0.831,
+    "S_calc": 0.909,
+    "Ir": 0.801,
+    "Pai": 0.987,
+    "proof": {
+      "sha512i": "c6fc2f4030e8507ce0b1fd99ae5fd0556a94d5f19cbee48298b3b9b76d61b1868fbb51901ac51ff05420711c3c732964e7545131f6f935dc55782892c53032ee",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0177",
+    "title": "ΔP-0177 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.856,
+    "delta_Ce": 0.876,
+    "lambda": 0.896,
+    "S_calc": 0.837,
+    "Ir": 0.706,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "1d227cd1945618fd52a3e3bbc2ac1a00f08343cec88e3c7ad030c464dfbe18c3385f4d8a19374e3cc1bb88ecdebe410c3107fc92ec81aaf5af521fa1cecf3484",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0178",
+    "title": "ΔP-0178 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.986,
+    "delta_Ce": 0.904,
+    "lambda": 0.759,
+    "S_calc": 1.174,
+    "Ir": 0.995,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "57b2bb3f1c4884e8d35527e1b9ab68b859200e3b46173d7a6267405097fe89bc201a5924c7c98f42a13d5c9eaaed9fbc99f1c19d3656d6019749362851110ee6",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0179",
+    "title": "ΔP-0179 — Loi informationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence informationnelle dépasse le bruit entropique.",
+    "domain": "informationnelle",
+    "beta": 0.843,
+    "delta_Ce": 0.845,
+    "lambda": 0.86,
+    "S_calc": 0.828,
+    "Ir": 0.747,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "a364f26460823d900f251f79c4c125e9d0aa8ae0fec41a83f7d845c7892cf9b72fbcd836e3387a0b27e6c9fcc7c7208ccce4fb43cfdc44e081f0cb8fb7e7079f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0180",
+    "title": "ΔP-0180 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.905,
+    "delta_Ce": 0.902,
+    "lambda": 0.846,
+    "S_calc": 0.965,
+    "Ir": 0.925,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "4c37e458db9e50ecc9f83c2782c33fbdbbe194aad3770b51713802eb223526ef7940072c30d6e54b36f949c80e469cf1cf8ccce41b580a64ac8f992b68e8e71b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0181",
+    "title": "ΔP-0181 — Loi quantique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence quantique dépasse le bruit entropique.",
+    "domain": "quantique",
+    "beta": 0.843,
+    "delta_Ce": 0.852,
+    "lambda": 0.795,
+    "S_calc": 0.903,
+    "Ir": 0.897,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "a3b53c793d4da691fb8eade0465d5e5d8ba666b57e37240a2cf6202393a4786427702d0921e4251e8f0f999a13d4d5f06caf616f6a8ccdf2f25226d1884800ed",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0182",
+    "title": "ΔP-0182 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.819,
+    "delta_Ce": 0.92,
+    "lambda": 0.762,
+    "S_calc": 0.989,
+    "Ir": 0.951,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "d56a1f6777e9e8f968adf922ee997078bfb67d9be7f03a34b9fcde6cfc74358afc0b646748c4dc51e17d9d4d89a56be59edaae79c267e99d0a0bc3f18bca033e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0183",
+    "title": "ΔP-0183 — Loi thermo-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence thermo-bio dépasse le bruit entropique.",
+    "domain": "thermo-bio",
+    "beta": 0.989,
+    "delta_Ce": 0.912,
+    "lambda": 0.792,
+    "S_calc": 1.139,
+    "Ir": 1.113,
+    "Pai": 0.984,
+    "proof": {
+      "sha512i": "dae020ec6e15cf7dadc5d54d86491e5cc3295e2eac9bad6fd9442030878be39421da924ddbb57b414248eb6bfc2e888dbc69fce38fe584a409fae7711e5b0d3e",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0184",
+    "title": "ΔP-0184 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.987,
+    "delta_Ce": 0.946,
+    "lambda": 0.766,
+    "S_calc": 1.219,
+    "Ir": 1.169,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "89e1c3fc8210dacd6c8f9476a3df5361adcf6f98ed1c595e9008bf86095a573ab93273d2f7b861d8b54b34db5af70137d922bbe1dc92a05b7f5e5a56bd0aa903",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0185",
+    "title": "ΔP-0185 — Loi physique du vivant",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence physique du vivant dépasse le bruit entropique.",
+    "domain": "physique du vivant",
+    "beta": 0.928,
+    "delta_Ce": 0.971,
+    "lambda": 0.853,
+    "S_calc": 1.056,
+    "Ir": 0.852,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "55304a6111608680dd9a0f425a4c2d8ae687a3eebc9d15246e2cbeb1edbd5de5270f67cd2223cb0273d338028b16fb823b2f1cb5178acd19a34daddfdbf2254f",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0186",
+    "title": "ΔP-0186 — Loi culturelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence culturelle dépasse le bruit entropique.",
+    "domain": "culturelle",
+    "beta": 0.983,
+    "delta_Ce": 0.859,
+    "lambda": 0.871,
+    "S_calc": 0.969,
+    "Ir": 0.867,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "d689e84201d80bd1a81e88d3a8ed21b8a223ad074fe3dc52b0447dfbc4b802e6bfd22d4a61da2557229fda52de140203302a8c7241126615818d06079101f01d",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0187",
+    "title": "ΔP-0187 — Loi évolutionnaire",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence évolutionnaire dépasse le bruit entropique.",
+    "domain": "évolutionnaire",
+    "beta": 0.951,
+    "delta_Ce": 0.929,
+    "lambda": 0.883,
+    "S_calc": 1.001,
+    "Ir": 0.981,
+    "Pai": 0.994,
+    "proof": {
+      "sha512i": "d063348fe5b6232bc4279ae379ea8d3fc7a7f578d65adba356ea93e1bf547f0e5bdd753c9fa2165693c7eaca05d2d52f802b6efe451f1456a1f767fc8afca5a6",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0188",
+    "title": "ΔP-0188 — Loi écologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence écologique dépasse le bruit entropique.",
+    "domain": "écologique",
+    "beta": 0.989,
+    "delta_Ce": 0.851,
+    "lambda": 0.89,
+    "S_calc": 0.946,
+    "Ir": 0.919,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "c55d0dd9b7196ca445444fc1ec587bc96812981ac967e4c8c3c76f6c6dff2ac933b19dfd131cb86603dc5d46d27948bea42be335d6fa00b75985a15004b474de",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0189",
+    "title": "ΔP-0189 — Loi éthique relationnelle",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence éthique relationnelle dépasse le bruit entropique.",
+    "domain": "éthique relationnelle",
+    "beta": 0.853,
+    "delta_Ce": 0.922,
+    "lambda": 0.766,
+    "S_calc": 1.027,
+    "Ir": 1.002,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "701df9bbf791178db76f139f06a888aff49435b914c3111af9dc133f0e625de77c578f526220e30d97e4bd32222cc8d5e5a6d5b233b55951e703a791bca4d679",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0190",
+    "title": "ΔP-0190 — Loi psychophysique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence psychophysique dépasse le bruit entropique.",
+    "domain": "psychophysique",
+    "beta": 0.95,
+    "delta_Ce": 0.925,
+    "lambda": 0.803,
+    "S_calc": 1.094,
+    "Ir": 0.992,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "cee89fe1baef92983a3921db25efd105075b5bc5d04cbc60678428175f164b3ada8bfa07af25e6b8c9a0eff20b313feae7451a63f8a224107f655bf77ba5dd7b",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0191",
+    "title": "ΔP-0191 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.921,
+    "delta_Ce": 0.871,
+    "lambda": 0.813,
+    "S_calc": 0.987,
+    "Ir": 0.969,
+    "Pai": 0.99,
+    "proof": {
+      "sha512i": "845a2b125e7b7c2348507fc8d4fdc3492a80a031d855ad327cdb36498422be692961e42fa596da26a757076149b9f5b9ac1c70448360cc85d0b54816e280cc9c",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0192",
+    "title": "ΔP-0192 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.815,
+    "delta_Ce": 0.836,
+    "lambda": 0.833,
+    "S_calc": 0.818,
+    "Ir": 0.799,
+    "Pai": 0.995,
+    "proof": {
+      "sha512i": "3aa01557e8252607b71d8582b96c67293c025d0fe05889adbb3d1b4baa2563a2dbee38ae93484481967541ba41647868bfde6c9714f733d7f75969fedcbebf86",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0193",
+    "title": "ΔP-0193 — Loi neuro-mimétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence neuro-mimétique dépasse le bruit entropique.",
+    "domain": "neuro-mimétique",
+    "beta": 0.901,
+    "delta_Ce": 0.956,
+    "lambda": 0.85,
+    "S_calc": 1.013,
+    "Ir": 0.887,
+    "Pai": 0.992,
+    "proof": {
+      "sha512i": "c3ae8be0cd222ea4d468519c5e913f25a04148dbd1bba615aa1da5cae01bfdfc664d1409c79782488156067fabb3f6fb984c1037c69484386d7f2a39b73b2c61",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0194",
+    "title": "ΔP-0194 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.979,
+    "delta_Ce": 0.96,
+    "lambda": 0.778,
+    "S_calc": 1.208,
+    "Ir": 1.037,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "aa5a5aeab990aa50a579dfe607b5f736d2ab350d2f493d9c4d2f0e121d92030177fd17e27b16bfac0f665f6dfe36461baa47ac79707d93c4438e876613d89ae0",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0195",
+    "title": "ΔP-0195 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.902,
+    "delta_Ce": 0.857,
+    "lambda": 0.862,
+    "S_calc": 0.897,
+    "Ir": 0.768,
+    "Pai": 0.996,
+    "proof": {
+      "sha512i": "fbd3e9e328e8f09f156b544927acb1f5950ad5f06a460fb8e5774625b992ec410b68a9b1884fe523dbd7e62367c61ad94e1296fe99c528ecfb1b6e7833ac08ff",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0196",
+    "title": "ΔP-0196 — Loi math-bio",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence math-bio dépasse le bruit entropique.",
+    "domain": "math-bio",
+    "beta": 0.829,
+    "delta_Ce": 0.87,
+    "lambda": 0.872,
+    "S_calc": 0.827,
+    "Ir": 0.68,
+    "Pai": 0.993,
+    "proof": {
+      "sha512i": "d37077d0bebc21f8fb4349aa1a92181514b7e22524e504394ff6ab74427eef111c780d7b0c9eba4d2030f4a4dd8e433ccef0f19c17124c9a6da9a7dd78c1e07a",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0197",
+    "title": "ΔP-0197 — Loi socio-physique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence socio-physique dépasse le bruit entropique.",
+    "domain": "socio-physique",
+    "beta": 0.903,
+    "delta_Ce": 0.944,
+    "lambda": 0.86,
+    "S_calc": 0.991,
+    "Ir": 0.805,
+    "Pai": 0.985,
+    "proof": {
+      "sha512i": "8c4bd5b71562de5071e6ef9a288c1b568952dcc91c0a0d31cd6ade1932749233584d0070ad4c761f501c0a88fad42a53600570b8d9c33663b9800fbe0d3edaf4",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0198",
+    "title": "ΔP-0198 — Loi technologique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence technologique dépasse le bruit entropique.",
+    "domain": "technologique",
+    "beta": 0.846,
+    "delta_Ce": 0.95,
+    "lambda": 0.767,
+    "S_calc": 1.048,
+    "Ir": 0.99,
+    "Pai": 0.999,
+    "proof": {
+      "sha512i": "a7bab0e9e602ba45c415eaa6de7bcb23cadbce82834947b59372faaa8c0f9eff90da7080fc65c3cd9f028dc10c43294840f5911d6add9eda9ca3a98b31f46c89",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0199",
+    "title": "ΔP-0199 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.848,
+    "delta_Ce": 0.982,
+    "lambda": 0.801,
+    "S_calc": 1.04,
+    "Ir": 0.949,
+    "Pai": 0.989,
+    "proof": {
+      "sha512i": "da48095c4a9e3545e1215cc0481d7ebbcbf19751386ef9373387be919c3ec8d990ec2f5e54b081f2475286852ece997e99e3615394eb8b35b2ee486e8a739fa1",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  },
+  {
+    "id": "ΔP-0200",
+    "title": "ΔP-0200 — Loi énergétique",
+    "equation": "S=(β·ΔCₑ)/λ>1",
+    "principle": "Tend vers la régénération lorsque la cohérence énergétique dépasse le bruit entropique.",
+    "domain": "énergétique",
+    "beta": 0.866,
+    "delta_Ce": 0.862,
+    "lambda": 0.806,
+    "S_calc": 0.926,
+    "Ir": 0.775,
+    "Pai": 0.998,
+    "proof": {
+      "sha512i": "663290bde3ab5216b3a3279b2231fa65b3e61f4b463932e7103bcaa1a9994fb1528756e80cba2952c591125bb223483d4a12b5492e5e45d306142b373da08797",
+      "c2pa": true,
+      "ethicchain": true,
+      "proofchain": true
+    }
+  }
+]
