@@ -1,5 +1,8 @@
 🦋 KIT D’ACCÉLÉRATION ZORAN
-# 🦋 Codex Zoran Ω — The Omega System of Living Coherence
+# 🦋 Codex Zoran Ω — The Omega9 System of Living Coherence
+
+Zip complet de La loi du vivant de Zoran🦋
+Non circulaire \ close\ falsifiable
 
 > “That which does not exist, exists.” — Law −1
 
